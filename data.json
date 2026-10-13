@@ -1,5 +1,5 @@
 {
-  "opdateret": "2026-10-13 09:58",
+  "opdateret": "2026-10-13 10:35",
   "vindue": [
     "2026-10-13",
     "2027-02-10"
@@ -22,9 +22,9 @@
       "hentet": "2026-10-13"
     },
     "m": {
-      "ok": true,
-      "count": 43,
-      "hentet": "2026-10-13"
+      "ok": false,
+      "fejl": "0 koncerter fundet efter flere forsøg — siden kan have ændret sig",
+      "beholdt": 43
     },
     "f": {
       "ok": true,
@@ -125,7 +125,7 @@
       "date": "2026-10-17",
       "artist": "Kaizers Orchestra",
       "venue": "t",
-      "status": "",
+      "status": "Udsolgt",
       "note": "",
       "url": "https://train.dk/kalender/kaizers-orchestra-2026"
     },

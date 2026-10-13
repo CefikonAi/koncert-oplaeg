@@ -212,6 +212,28 @@ def keep(ev):
 PARSERS = {"t": parse_train, "v": parse_voxhall, "m": parse_musikhuset, "f": parse_friheden}
 
 
+SOLD_PATTERNS = [
+    re.compile(r">\s*Udsolgt\s*<"),           # knap på koncertsiden (TRAIN)
+    re.compile(r"Koncerten er udsolgt", re.I),  # besked på koncertsiden (TRAIN)
+]
+
+
+def enrich_status(events):
+    """Tjek hver koncerts egen side for udsolgt. Lister viser det ikke altid.
+    Musikhuset har status på kalenderen, så dem springes over. Fejl på én side stopper ikke de andre."""
+    for e in events:
+        if e["status"] or e["venue"] == "m" or not e["url"]:
+            continue
+        try:
+            page = fetch(e["url"])
+        except Exception:
+            continue
+        if any(p.search(page) for p in SOLD_PATTERNS):
+            e["status"] = "Udsolgt"
+        time.sleep(0.3)
+    return events
+
+
 def fetch_and_parse(key, parse, attempts=4):
     """Musikhuset har set svar uden kalenderdata (en anden side-variant, sandsynligvis fra cache).
     Prøv igen med cache-bypass før det tæller som fejl; ved fejl beholdes sidste kendte data."""
@@ -219,7 +241,7 @@ def fetch_and_parse(key, parse, attempts=4):
         url = f"{SOURCE_PAGES[key]}?v={int(time.time())}{n}"
         found = [e for e in parse(fetch(url)) if keep(e)]
         if found:
-            return found
+            return enrich_status(found)
         if n < attempts - 1:
             time.sleep(10)
     raise RuntimeError("0 koncerter fundet efter flere forsøg — siden kan have ændret sig")
