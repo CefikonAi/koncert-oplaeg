@@ -160,6 +160,7 @@ li.ev {
 .tag.f { color: var(--tag-f); }
 .status { border: 1px solid var(--line); border-radius: 999px; padding: 1px 8px; color: var(--fg); }
 .status.sold { background: #b3261e; border-color: #b3261e; color: #ffffff; font-weight: 600; }
+.status.wait { background: var(--flag); border-color: var(--flag); color: var(--surface); font-weight: 600; }
 li.ev.is-sold { opacity: 0.8; }
 .note { color: var(--flag); font-size: 0.8rem; margin: 4px 0 0; }
 .go { display: inline-block; margin-top: 6px; font-size: 0.85rem; font-weight: 600; color: var(--accent); text-decoration: none; overflow-wrap: anywhere; }
@@ -266,7 +267,7 @@ footer { margin-top: 28px; color: var(--muted); font-size: 0.8rem; }
   </section>
 
   <footer>
-    Listen hentes fra stedernes egne kalendersider. Udsolgt vises kun, hvor stedet viser det på sin egen kalendersside. Lige nu gælder det Musikhuset. TRAIN, VoxHall og Friheden viser ikke udsolgt på deres sider.Knapperne under koncerterne fører til stedernes egne koncertsider, hvor billetknappen ligger. Der er ingen direkte links til Ticketmaster, billetten.dk, billetlugen.dk eller Tixly.
+    Listen hentes fra stedernes egne kalendersider. Udsolgt vises kun, hvor stedet viser det på sin egen kalendersside. Lige nu gælder det Musikhuset, både udsolgt og venteliste.TRAIN, VoxHall og Friheden viser ikke udsolgt på deres sider.Knapperne under koncerterne fører til stedernes egne koncertsider, hvor billetknappen ligger. Der er ingen direkte links til Ticketmaster, billetten.dk, billetlugen.dk eller Tixly.
   </footer>
 </div>
 
@@ -337,7 +338,8 @@ footer { margin-top: 28px; color: var(--muted); font-size: 0.8rem; }
         var li = document.createElement("li");
         li.className = "ev";
         var meta = '<span class="tag ' + e.venue + '">' + esc(VENUE[e.venue]) + '</span>';
-        if (e.status) meta += '<span class="status' + (e.status === "Udsolgt" ? ' sold' : '') + '">' + esc(e.status) + '</span>';
+        var statusClass = e.status === "Udsolgt" ? " sold" : e.status === "Venteliste" ? " wait" : "";
+        if (e.status) meta += '<span class="status' + statusClass + '">' + esc(e.status) + '</span>';
         if (e.status === "Udsolgt") li.className += " is-sold";
         var note = e.note ? '<p class="note">' + esc(e.note) + '</p>' : '';
         var link = e.url
