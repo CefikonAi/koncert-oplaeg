@@ -218,18 +218,26 @@ SOLD_PATTERNS = [
 ]
 
 
-def enrich_status(events):
-    """Tjek hver koncerts egen side for udsolgt. Lister viser det ikke altid.
-    Musikhuset har status på kalenderen, så dem springes over. Fejl på én side stopper ikke de andre."""
+OG_IMAGE = re.compile(r'<meta[^>]+property="og:image"[^>]+content="([^"]+)"|<meta[^>]+content="([^"]+)"[^>]+property="og:image"')
+
+
+def enrich_details(events):
+    """Hent hver koncerts egen side for udsolgt og billede (og:image).
+    Friheden springes over for billede, fordi deres og:image er et generelt billede for stedet.
+    Fejl på én side stopper ikke de andre."""
     for e in events:
-        if e["status"] or e["venue"] == "m" or not e["url"]:
+        if not e["url"]:
             continue
         try:
             page = fetch(e["url"])
         except Exception:
             continue
-        if any(p.search(page) for p in SOLD_PATTERNS):
+        if not e["status"] and any(p.search(page) for p in SOLD_PATTERNS):
             e["status"] = "Udsolgt"
+        if e["venue"] != "f":
+            m = OG_IMAGE.search(page)
+            if m:
+                e["image"] = html.unescape(m.group(1) or m.group(2))
         time.sleep(0.3)
     return events
 
@@ -241,7 +249,7 @@ def fetch_and_parse(key, parse, attempts=4):
         url = f"{SOURCE_PAGES[key]}?v={int(time.time())}{n}"
         found = [e for e in parse(fetch(url)) if keep(e)]
         if found:
-            return enrich_status(found)
+            return enrich_details(found)
         if n < attempts - 1:
             time.sleep(10)
     raise RuntimeError("0 koncerter fundet efter flere forsøg — siden kan have ændret sig")

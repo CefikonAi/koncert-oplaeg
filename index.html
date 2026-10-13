@@ -165,6 +165,8 @@ li.ev.is-sold { opacity: 0.8; }
 .note { color: var(--flag); font-size: 0.8rem; margin: 4px 0 0; }
 .go { display: inline-block; margin-top: 6px; font-size: 0.85rem; font-weight: 600; color: var(--accent); text-decoration: none; overflow-wrap: anywhere; }
 .go:hover { text-decoration: underline; }
+.links { display: flex; flex-wrap: wrap; gap: 4px 14px; }
+.thumb { display: block; width: 100%; max-width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px; margin: 0 0 8px; background: var(--chip); }
 .empty { color: var(--muted); padding: 24px 0; text-align: center; }
 
 .info { margin-top: 12px; }
@@ -267,7 +269,7 @@ footer { margin-top: 28px; color: var(--muted); font-size: 0.8rem; }
   </section>
 
   <footer>
-    Listen hentes fra stedernes egne kalendersider. Udsolgt vises kun, hvor stedet viser det på sin egen kalendersside. Lige nu gælder det Musikhuset, både udsolgt og venteliste.TRAIN, VoxHall og Friheden viser ikke udsolgt på deres sider.Knapperne under koncerterne fører til stedernes egne koncertsider, hvor billetknappen ligger. Der er ingen direkte links til Ticketmaster, billetten.dk, billetlugen.dk eller Tixly.
+    Listen hentes fra stedernes egne kalender- og koncertsider. Udsolgt og venteliste er taget fra de sider, og de kan være ændret siden sidste opdatering. Billeder er stedernes egne promofotos. Spotify-knappen laver en søgning og er ikke et direkte link til kunstnerens profil.Knapperne under koncerterne fører til stedernes egne koncertsider, hvor billetknappen ligger. Der er ingen direkte links til Ticketmaster, billetten.dk, billetlugen.dk eller Tixly.
   </footer>
 </div>
 
@@ -345,9 +347,15 @@ footer { margin-top: 28px; color: var(--muted); font-size: 0.8rem; }
         var link = e.url
           ? '<a class="go" href="' + esc(e.url) + '" target="_blank" rel="noopener">Åbn på ' + esc(host(e.url)) + ' →</a>'
           : '';
+        var spotify = '<a class="go" href="https://open.spotify.com/search/' + encodeURIComponent(e.artist) +
+          '" target="_blank" rel="noopener">Søg på Spotify →</a>';
+        var img = e.image
+          ? '<img class="thumb" src="' + esc(e.image) + '" alt="" loading="lazy" referrerpolicy="no-referrer">'
+          : '';
         li.innerHTML =
           '<div class="day"><b>' + d.getDate() + '</b><span>' + DAYS[d.getDay()] + '</span></div>' +
-          '<div><h3>' + esc(e.artist) + '</h3><p class="meta">' + meta + '</p>' + note + link + '</div>';
+          '<div>' + img + '<h3>' + esc(e.artist) + '</h3><p class="meta">' + meta + '</p>' + note +
+          '<div class="links">' + link + spotify + '</div></div>';
         ul.appendChild(li);
       });
       sec.appendChild(ul);
