@@ -1,0 +1,406 @@
+<!doctype html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Koncerter i Aarhus</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Figtree:wght@400;500;600&display=swap">
+<style>
+/* Layout: one column on phone, a sticky filter bar, months as plain sections.
+   Palette: warm paper and ink, one amber accent used for the active filter, dates and links. */
+:root {
+  --bg: #f6f2ea;
+  --surface: #ffffff;
+  --fg: #1d1b17;
+  --muted: #6b655a;
+  --line: #e4ddd0;
+  --accent: #b5561a;
+  --accent-ink: #ffffff;
+  --chip: #ece6da;
+  --flag: #8a5a00;
+  --tag-t: #1f5f5b;
+  --tag-v: #5b3a7a;
+  --tag-m: #2a4a8a;
+  --tag-f: #7a3b2a;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #17150f;
+    --surface: #221f18;
+    --fg: #f1ece1;
+    --muted: #a59d8e;
+    --line: #37321f;
+    --accent: #e89a5b;
+    --accent-ink: #17150f;
+    --chip: #2b271e;
+    --flag: #e8c060;
+    --tag-t: #7fd0c8;
+    --tag-v: #c9b0ea;
+    --tag-m: #a9c2f2;
+    --tag-f: #f0b5a0;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #17150f;
+  --surface: #221f18;
+  --fg: #f1ece1;
+  --muted: #a59d8e;
+  --line: #37321f;
+  --accent: #e89a5b;
+  --accent-ink: #17150f;
+  --chip: #2b271e;
+  --flag: #e8c060;
+  --tag-t: #7fd0c8;
+  --tag-v: #c9b0ea;
+  --tag-m: #a9c2f2;
+  --tag-f: #f0b5a0;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: "Figtree", system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-size: 16px;
+  line-height: 1.45;
+}
+.wrap { padding-inline: 16px; padding-block: 12px 40px; max-width: 640px; margin-inline: auto; }
+
+header.top { padding-block: 8px 12px; }
+h1 {
+  font-family: "Fraunces", Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  font-size: 1.85rem;
+  line-height: 1.1;
+  margin: 0 0 6px;
+  text-wrap: balance;
+}
+.lede { color: var(--muted); margin: 0; font-size: 0.95rem; }
+.lede.warn { color: var(--flag); }
+
+.views { display: flex; gap: 8px; margin: 14px 0 0; }
+.bar {
+  position: sticky;
+  top: env(safe-area-inset-top, 0px);
+  z-index: 5;
+  background: var(--bg);
+  padding-block: 10px 8px;
+  border-bottom: 1px solid var(--line);
+  margin-inline: -16px;
+  padding-inline: 16px;
+}
+.search {
+  width: 100%;
+  font: inherit;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--surface);
+  color: var(--fg);
+}
+.chips {
+  display: flex;
+  gap: 8px;
+  margin-top: 8px;
+  overflow-x: auto;
+  padding-bottom: 2px;
+  scrollbar-width: none;
+}
+.chips::-webkit-scrollbar { display: none; }
+.chip {
+  flex: 0 0 auto;
+  font: inherit;
+  font-size: 0.9rem;
+  padding: 6px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--chip);
+  color: var(--fg);
+  cursor: pointer;
+}
+.views .chip { font-size: 0.95rem; padding: 8px 16px; }
+.chip[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.chip:focus-visible, .search:focus-visible, .copy:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+.count { color: var(--muted); font-size: 0.85rem; margin: 10px 0 0; }
+
+section.month { margin-top: 22px; }
+section.month h2 {
+  font-family: "Fraunces", Georgia, serif;
+  font-size: 1.25rem;
+  margin: 0 0 8px;
+  text-transform: capitalize;
+}
+ul.list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+li.ev {
+  display: grid;
+  grid-template-columns: 52px minmax(0, 1fr);
+  gap: 12px;
+  align-items: start;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 10px 12px;
+}
+.day { text-align: center; line-height: 1.1; }
+.day b { display: block; font-family: "Fraunces", Georgia, serif; font-size: 1.35rem; color: var(--accent); font-variant-numeric: tabular-nums; }
+.day span { font-size: 0.75rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
+.ev h3 { margin: 0; font-size: 1rem; font-weight: 600; overflow-wrap: anywhere; }
+.meta { margin: 4px 0 0; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: 0.8rem; color: var(--muted); }
+.tag { font-weight: 600; font-size: 0.72rem; letter-spacing: 0.04em; text-transform: uppercase; }
+.tag.t { color: var(--tag-t); }
+.tag.v { color: var(--tag-v); }
+.tag.m { color: var(--tag-m); }
+.tag.f { color: var(--tag-f); }
+.status { border: 1px solid var(--line); border-radius: 999px; padding: 1px 8px; color: var(--fg); }
+.note { color: var(--flag); font-size: 0.8rem; margin: 4px 0 0; }
+.go { display: inline-block; margin-top: 6px; font-size: 0.85rem; font-weight: 600; color: var(--accent); text-decoration: none; overflow-wrap: anywhere; }
+.go:hover { text-decoration: underline; }
+.empty { color: var(--muted); padding: 24px 0; text-align: center; }
+
+.info { margin-top: 12px; }
+.info h2 { font-family: "Fraunces", Georgia, serif; font-size: 1.25rem; margin: 0 0 10px; }
+.card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 12px;
+  margin-bottom: 10px;
+}
+.card h3 { margin: 0 0 4px; font-size: 1rem; }
+.card p { margin: 6px 0 0; font-size: 0.9rem; color: var(--fg); overflow-wrap: anywhere; }
+.card .muted { color: var(--muted); }
+.card .label { font-weight: 600; }
+.copy {
+  font: inherit;
+  font-size: 0.85rem;
+  margin-top: 8px;
+  padding: 6px 10px;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: var(--chip);
+  color: var(--fg);
+  cursor: pointer;
+}
+a.src { color: var(--accent); }
+
+footer { margin-top: 28px; color: var(--muted); font-size: 0.8rem; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <h1>Koncerter i Aarhus</h1>
+    <p class="lede" id="meta">Henter koncertlisten …</p>
+  </header>
+
+  <nav class="views" role="group" aria-label="Vis">
+    <button class="chip" data-view="koncerter" aria-pressed="true">Koncerter</button>
+    <button class="chip" data-view="ledsager" aria-pressed="false">Ledsager</button>
+  </nav>
+
+  <div id="koncert-view">
+  <div class="bar">
+    <input class="search" id="q" type="search" placeholder="Søg efter artist eller koncert" aria-label="Søg efter artist eller koncert">
+    <div class="chips" role="group" aria-label="Vælg sted">
+      <button class="chip" data-v="all" aria-pressed="true">Alle</button>
+      <button class="chip" data-v="t" aria-pressed="false">TRAIN</button>
+      <button class="chip" data-v="v" aria-pressed="false">VoxHall</button>
+      <button class="chip" data-v="m" aria-pressed="false">Musikhuset</button>
+      <button class="chip" data-v="f" aria-pressed="false">Friheden</button>
+    </div>
+    <p class="count" id="count" aria-live="polite"></p>
+  </div>
+
+  <main id="out"></main>
+  </div>
+
+  <section class="info" id="ledsager-view" aria-labelledby="info-h" hidden>
+    <h2 id="info-h">Ledsager og billetter</h2>
+
+    <div class="card">
+      <h3>TRAIN</h3>
+      <p class="muted">Kalkværksvej 13, 8000 Aarhus C</p>
+      <p><span class="label">Ledsagerbillet:</span> TRAIN er ikke en del af Ledsagerordningen. Der er et begrænset antal handicapbilletter til hver koncert, og hver inkluderer én gratis ledsager.</p>
+      <p><span class="label">Hvor:</span> Handicapbilletterne købes forud via Ticketmaster, enten på billetsiden eller på telefon. De sælges ikke i døren. Nummeret står på train.dk/praktisk.</p>
+      <p><span class="label">Ved udsolgt:</span> Du kan købe to standardbilletter og søge tilskud via borger.dk.</p>
+      <p><span class="label">Krav:</span> Gyldigt ledsagerkort på koncertaftenen.</p>
+      <p>Telefon til TRAIN: +45 86 13 47 22 (man., ons., tors. 12–14)</p>
+      <button class="copy" data-copy="+45 86 13 47 22">Kopiér nummer</button>
+      <p><a class="src" href="https://train.dk/praktisk" target="_blank" rel="noopener">Læs mere på train.dk/praktisk</a></p>
+    </div>
+
+    <div class="card">
+      <h3>VoxHall</h3>
+      <p class="muted">Vester Allé 15, 8000 Aarhus C</p>
+      <p><span class="label">Ledsager:</span> Med gyldigt ledsagekort får ledsageren gratis adgang. Siden nævner ingen særskilt ledsagerbillet.</p>
+      <p><span class="label">Spørgsmål:</span> voxhall@fondenvoxhall.dk eller (0045) 8730 9797, hverdage 9–15.</p>
+      <button class="copy" data-copy="+45 8730 9797">Kopiér nummer</button>
+      <p><a class="src" href="https://voxhall.dk/handelsbetingelser/" target="_blank" rel="noopener">Læs handelsbetingelserne</a></p>
+    </div>
+
+    <div class="card">
+      <h3>Musikhuset Aarhus</h3>
+      <p><span class="label">Ledsager:</span> Gæster med ledsagerkort kan gratis medbringe en hjælper.</p>
+      <p><span class="label">Ledsagerbillet:</span> Kræver gyldigt ledsagerkort. Købes online eller ved henvendelse til billetsalget. Kørestols- og ledsagerpladser kan købes online og er markeret i salene.</p>
+      <p><span class="label">Billetsalg:</span> 89 40 40 40 eller billetsalg@musikhuset.dk. Siden tilgængelighed nævner en anden adresse (billetsalg.mus@mkb.aarhus.dk). Den skal bekræftes, før den bruges.</p>
+      <button class="copy" data-copy="89 40 40 40">Kopiér nummer</button>
+      <p><a class="src" href="https://www.musikhuset.dk/praktisk-info/tilgaengelighed" target="_blank" rel="noopener">Læs om tilgængelighed</a></p>
+    </div>
+
+    <div class="card">
+      <h3>Tivoli Friheden (Hermans)</h3>
+      <p class="muted">Skovbrynet 5, 8000 Århus C</p>
+      <p><span class="label">Ledsager:</span> Der er ikke fundet noget om ledsager- eller handicapbilletter på Friheds sider. Kørestole kan lejes gratis i Informationen ved hovedindgangen, med depositum 200 kr.</p>
+      <p><span class="label">Spørgsmål:</span> tivoli@friheden.dk eller +45 86 14 73 00.</p>
+      <button class="copy" data-copy="+45 86 14 73 00">Kopiér nummer</button>
+    </div>
+  </section>
+
+  <footer>
+    Listen hentes fra stedernes egne kalendersider. Knapperne under koncerterne fører til stedernes egne koncertsider, hvor billetknappen ligger. Der er ingen direkte links til Ticketmaster, billetten.dk, billetlugen.dk eller Tixly.
+  </footer>
+</div>
+
+<script>
+(function () {
+  var VENUE = { t: "TRAIN", v: "VoxHall", m: "Musikhuset", f: "Friheden" };
+  var MONTHS = ["januar","februar","marts","april","maj","juni","juli","august","september","oktober","november","december"];
+  var DAYS = ["søn","man","tir","ons","tors","fre","lør"];
+  var EV = [];
+  var state = { venue: "all", q: "" };
+
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+
+  function host(url) {
+    try { return new URL(url).host.replace(/^www\./, ""); } catch (err) { return ""; }
+  }
+
+  function showMeta(d) {
+    var el = document.getElementById("meta");
+    var txt = "Opdateret " + d.opdateret + ". Stedernes sider, ingen billetdata.";
+    var fejl = Object.keys(d.status || {}).filter(function (k) { return !d.status[k].ok; });
+    if (fejl.length) {
+      el.className = "lede warn";
+      txt += " Seneste hentning fejlede for " + fejl.map(function (k) { return VENUE[k]; }).join(", ") + ", så der vises ældre data for dem.";
+    }
+    el.textContent = txt;
+  }
+
+  function render() {
+    var q = state.q.trim().toLowerCase();
+    var rows = EV.filter(function (e) {
+      if (state.venue !== "all" && e.venue !== state.venue) return false;
+      if (q && (e.date + " " + e.artist + " " + VENUE[e.venue] + " " + (e.note || "")).toLowerCase().indexOf(q) === -1) return false;
+      return true;
+    });
+
+    var out = document.getElementById("out");
+    out.innerHTML = "";
+    document.getElementById("count").textContent = rows.length + " koncerter";
+
+    if (!rows.length) {
+      out.innerHTML = '<p class="empty">Ingen koncerter matcher søgningen.</p>';
+      return;
+    }
+
+    var groups = {}, order = [];
+    rows.forEach(function (e) {
+      var key = e.date.slice(0, 7);
+      if (!groups[key]) { groups[key] = []; order.push(key); }
+      groups[key].push(e);
+    });
+
+    order.forEach(function (key) {
+      var y = key.slice(0, 4), m = parseInt(key.slice(5, 7), 10) - 1;
+      var sec = document.createElement("section");
+      sec.className = "month";
+      var h = document.createElement("h2");
+      h.textContent = MONTHS[m] + " " + y;
+      sec.appendChild(h);
+      var ul = document.createElement("ul");
+      ul.className = "list";
+      groups[key].forEach(function (e) {
+        var d = new Date(e.date + "T12:00:00");
+        var li = document.createElement("li");
+        li.className = "ev";
+        var meta = '<span class="tag ' + e.venue + '">' + esc(VENUE[e.venue]) + '</span>';
+        if (e.status) meta += '<span class="status">' + esc(e.status) + '</span>';
+        var note = e.note ? '<p class="note">' + esc(e.note) + '</p>' : '';
+        var link = e.url
+          ? '<a class="go" href="' + esc(e.url) + '" target="_blank" rel="noopener">Åbn på ' + esc(host(e.url)) + ' →</a>'
+          : '';
+        li.innerHTML =
+          '<div class="day"><b>' + d.getDate() + '</b><span>' + DAYS[d.getDay()] + '</span></div>' +
+          '<div><h3>' + esc(e.artist) + '</h3><p class="meta">' + meta + '</p>' + note + link + '</div>';
+        ul.appendChild(li);
+      });
+      sec.appendChild(ul);
+      out.appendChild(sec);
+    });
+  }
+
+  document.querySelectorAll(".chip[data-v]").forEach(function (b) {
+    b.addEventListener("click", function () {
+      state.venue = b.getAttribute("data-v");
+      document.querySelectorAll(".chip[data-v]").forEach(function (x) {
+        x.setAttribute("aria-pressed", x === b ? "true" : "false");
+      });
+      render();
+    });
+  });
+
+  document.querySelectorAll(".views .chip").forEach(function (b) {
+    b.addEventListener("click", function () {
+      var showLedsager = b.getAttribute("data-view") === "ledsager";
+      document.querySelectorAll(".views .chip").forEach(function (x) {
+        x.setAttribute("aria-pressed", x === b ? "true" : "false");
+      });
+      document.getElementById("koncert-view").hidden = showLedsager;
+      document.getElementById("ledsager-view").hidden = !showLedsager;
+      window.scrollTo(0, 0);
+    });
+  });
+
+  document.getElementById("q").addEventListener("input", function (ev) {
+    state.q = ev.target.value;
+    render();
+  });
+
+  document.querySelectorAll(".copy").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var txt = btn.getAttribute("data-copy");
+      var done = function () { btn.textContent = "Kopieret"; setTimeout(function () { btn.textContent = "Kopiér nummer"; }, 1600); };
+      try {
+        navigator.clipboard.writeText(txt).then(done, function () { btn.textContent = txt; });
+      } catch (err) {
+        btn.textContent = txt;
+      }
+    });
+  });
+
+  fetch("data.json", { cache: "no-cache" })
+    .then(function (r) { if (!r.ok) throw new Error("http " + r.status); return r.json(); })
+    .then(function (d) {
+      EV = d.events || [];
+      showMeta(d);
+      render();
+    })
+    .catch(function () {
+      document.getElementById("meta").textContent = "Koncertlisten kunne ikke hentes. Prøv igen senere.";
+      document.getElementById("meta").className = "lede warn";
+    });
+})();
+</script>
+</body>
+</html>

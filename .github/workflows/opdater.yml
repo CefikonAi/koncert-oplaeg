@@ -1,0 +1,31 @@
+name: Opdater koncertliste
+
+on:
+  schedule:
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  opdater:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Hent koncerter
+        run: python scraper.py
+      - name: Gem hvis ændret
+        run: |
+          git config user.name "koncert-bot"
+          git config user.email "koncert-bot@users.noreply.github.com"
+          git add data.json
+          if git diff --cached --quiet; then
+            echo "Ingen ændringer"
+          else
+            git commit -m "Opdater koncertliste"
+            git push
+          fi
