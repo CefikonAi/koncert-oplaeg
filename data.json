@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-10-13 08:46",
+  "opdateret": "2026-10-14 09:42",
   "vindue": [
-    "2026-10-13",
-    "2027-02-10"
+    "2026-10-14",
+    "2027-02-11"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,23 +13,23 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 94,
-      "hentet": "2026-10-13"
+      "count": 96,
+      "hentet": "2026-10-14"
     },
     "v": {
       "ok": true,
       "count": 32,
-      "hentet": "2026-10-13"
+      "hentet": "2026-10-14"
     },
     "m": {
-      "ok": true,
-      "count": 43,
-      "hentet": "2026-10-13"
+      "ok": false,
+      "fejl": "0 koncerter fundet efter flere forsøg — siden kan have ændret sig",
+      "beholdt": 43
     },
     "f": {
       "ok": true,
-      "count": 5,
-      "hentet": "2026-10-13"
+      "count": 6,
+      "hentet": "2026-10-14"
     }
   },
   "events": [
@@ -1474,8 +1474,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/patrick-walshe-2027",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/59c477427e7deeae32d1c27123db6dcb8bb1fda2-3000x3621.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/patrick-walshe-2027"
     },
     {
       "date": "2027-01-30",
@@ -1592,6 +1591,32 @@
       "note": "",
       "url": "https://train.dk/kalender/warhaus-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/b74009c89f5fb62e27bdac99dd2c6603d061c757-2000x2392.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-02-11",
+      "artist": "Maline × Godt Gået Frej",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/maline-godt-gaaet-frej-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/9c4f791e1895b7651187656c8f0268f60b1473fe-2048x2736.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-02-11",
+      "artist": "Panzerchrist",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/panzerchrist-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/77f1015009e4a97ecfd962382118d5f2120eb79b-4902x3268.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-02-11",
+      "artist": "Policeman'en fra London",
+      "venue": "f",
+      "status": "",
+      "note": "",
+      "url": "https://friheden.dk/arrangementer/hermans/policemanen-fra-london-11022027"
     }
   ]
 }
