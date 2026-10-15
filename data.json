@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-10-14 09:42",
+  "opdateret": "2026-10-15 09:20",
   "vindue": [
-    "2026-10-14",
-    "2027-02-11"
+    "2026-10-15",
+    "2027-02-12"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -14,43 +14,25 @@
     "t": {
       "ok": true,
       "count": 96,
-      "hentet": "2026-10-14"
+      "hentet": "2026-10-15"
     },
     "v": {
       "ok": true,
-      "count": 32,
-      "hentet": "2026-10-14"
+      "count": 33,
+      "hentet": "2026-10-15"
     },
     "m": {
-      "ok": false,
-      "fejl": "0 koncerter fundet efter flere forsøg — siden kan have ændret sig",
-      "beholdt": 43
+      "ok": true,
+      "count": 45,
+      "hentet": "2026-10-15"
     },
     "f": {
       "ok": true,
       "count": 6,
-      "hentet": "2026-10-14"
+      "hentet": "2026-10-15"
     }
   },
   "events": [
-    {
-      "date": "2026-10-14",
-      "artist": "Koncert med ADAR Brass: Music Across Europe",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/solistkoncert-asier-sarasola-uranga-trompet-4",
-      "image": "https://www.datocms-assets.com/98810/1789542034-adar_brass_mh.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-14",
-      "artist": "Wafande",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/wafande-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/9827391599b1d3510624c848de9a04fc8e01d4b3-5218x3478.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
     {
       "date": "2026-10-15",
       "artist": "Claus Hempler",
@@ -672,12 +654,30 @@
     },
     {
       "date": "2026-11-05",
+      "artist": "Guldimund",
+      "venue": "m",
+      "status": "Venteliste",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/guldimund",
+      "image": "https://www.datocms-assets.com/98810/1759910424-feature_30004.png?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-05",
       "artist": "Koncertcafé Aarhus",
       "venue": "m",
       "status": "",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/koncertcafe-aarhus-3",
       "image": "https://www.datocms-assets.com/98810/1788498083-rama_aarhus_header_bas_guitar-scaled.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-05",
+      "artist": "Lis Wessberg feat. Veronika Rud",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/lis-wessberg-feat-veronika-rud",
+      "image": "https://www.datocms-assets.com/98810/1772698833-feature_32763.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-05",
@@ -705,6 +705,15 @@
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/rikke-thomsen",
       "image": "https://www.datocms-assets.com/98810/1768554032-feature_25902.png?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-06",
+      "artist": "Beethoven 9",
+      "venue": "m",
+      "status": "Udsolgt",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/beethoven-9",
+      "image": "https://www.datocms-assets.com/98810/1774306925-feature_32495.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-06",
@@ -1072,8 +1081,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/bifald-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/fc524a2b62ce066e7ef1c49a452d7fab9ee23067-2075x2149.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/bifald-2026"
     },
     {
       "date": "2026-11-28",
@@ -1108,8 +1116,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/guzo-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/fc67055e083bac16946201d1369f82e11eb7e10e-4922x4363.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/guzo-2026"
     },
     {
       "date": "2026-12-04",
@@ -1474,7 +1481,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/patrick-walshe-2027"
+      "url": "https://train.dk/kalender/patrick-walshe-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/59c477427e7deeae32d1c27123db6dcb8bb1fda2-3000x3621.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-01-30",
@@ -1617,6 +1625,24 @@
       "status": "",
       "note": "",
       "url": "https://friheden.dk/arrangementer/hermans/policemanen-fra-london-11022027"
+    },
+    {
+      "date": "2027-02-12",
+      "artist": "Eee Gee",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/eee-gee-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/fcf294818ad15c9f12c4a83c8bc7d5ef0db42df6-4480x5678.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-02-12",
+      "artist": "Slomosa",
+      "venue": "v",
+      "status": "",
+      "note": "",
+      "url": "https://voxhall.dk/koncerter/slomosa/",
+      "image": "https://voxhall.dk/wp-content/uploads/2026/09/Slomosa-2.jpg"
     }
   ]
 }
