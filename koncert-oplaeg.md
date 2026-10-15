@@ -183,6 +183,37 @@ Kilde: friheden.dk/hermans/arrangementer. Siden "Det sker" på friheden.dk har i
 | Ticketmaster | — | Forbyder kopiering, overvågning og links uden tilladelse, også til privat brug. | Ikke hentet. Ikke linket. |
 | billetten.dk | `/event/`, `/order/`, `/search` blokeret | Betingelserne handler om køb, ikke om indhold. | Ingen hentning af eventsider. Almindelige links er i orden. |
 
+## 13. Geografisk filtrering og personlige koncertområder
+
+Status: krav, ikke implementeret.
+
+Koncertkalenderen skal understøtte fleksibel geografisk filtrering på følgende niveauer:
+
+- Hele Danmark.
+- Administrative regioner.
+- Geografiske landsdele.
+- Individuelle byer med mindst 20.000 indbyggere.
+
+Brugeren skal kunne vælge og fravælge både hele geografiske områder og enkelte byer.
+
+Funktionskrav:
+
+1. Alle registrerede byer skal kunne vælges individuelt.
+2. En hel landsdel eller region skal kunne aktiveres eller deaktiveres med ét klik.
+3. Byer skal kunne kombineres på tværs af landsdele og regioner.
+4. Brugeren skal kunne vælge hele Danmark med ét klik.
+5. Filtreringen skal opdatere koncertoversigten uden genindlæsning af hjemmesiden.
+6. Brugerens valg skal kunne gemmes lokalt i browseren og gendannes ved næste besøg.
+7. Filtreringen må ikke påvirke den automatiske indsamling af koncertdata.
+8. Hvert spillested skal tilknyttes en by, en administrativ region og en geografisk landsdel.
+9. Områdeinddelingen skal være konsekvent og dokumenteret, så byer ikke udelades eller tælles dobbelt.
+
+Designprincip: Brugeren skal nemt kunne gå fra hele Danmark til sit personlige koncertområde og derefter finjustere udvalget på byniveau.
+
+Den geografiske filtrering skal fungere sammen med eksisterende dato-, spillesteds- og koncertfiltre.
+
+Åbne punkter: Der findes ingen by-, region- eller landsdelsdata for spillestederne i repoet (DATA MANGLER). Byregistret med indbyggertal skal hentes og dokumenteres før punkt 8 og 9 kan opfyldes.
+
 ## Næste skridt
 
 1. Læs Musikhusets kalender videre, så den dækker hele perioden.
