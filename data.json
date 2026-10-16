@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-10-15 09:20",
+  "opdateret": "2026-10-16 09:14",
   "vindue": [
-    "2026-10-15",
-    "2027-02-12"
+    "2026-10-16",
+    "2027-02-13"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,62 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 96,
-      "hentet": "2026-10-15"
+      "count": 95,
+      "hentet": "2026-10-16"
     },
     "v": {
       "ok": true,
       "count": 33,
-      "hentet": "2026-10-15"
+      "hentet": "2026-10-16"
     },
     "m": {
       "ok": true,
-      "count": 45,
-      "hentet": "2026-10-15"
+      "count": 47,
+      "hentet": "2026-10-16"
     },
     "f": {
       "ok": true,
       "count": 6,
-      "hentet": "2026-10-15"
+      "hentet": "2026-10-16"
     }
   },
   "events": [
-    {
-      "date": "2026-10-15",
-      "artist": "Claus Hempler",
-      "venue": "m",
-      "status": "Få tilbage",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/claus-hempler",
-      "image": "https://www.datocms-assets.com/98810/1764147640-feature_30563.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-15",
-      "artist": "Klaveraften",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/klaveraften-8",
-      "image": "https://www.datocms-assets.com/98810/1723559517-rama_dsc3231_mh_ny.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-15",
-      "artist": "Tina Dickow",
-      "venue": "m",
-      "status": "Få tilbage",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/tina-dickow-lyttesession",
-      "image": "https://www.datocms-assets.com/98810/1788937862-feature_35179.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-15",
-      "artist": "Vinnie Who",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/vinnie-who-2026-2",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/877da66709b3299ca08a4a7edcd2882d0b11940c-2233x1481.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
     {
       "date": "2026-10-16",
       "artist": "Kaizers Orchestra",
@@ -708,12 +672,48 @@
     },
     {
       "date": "2026-11-06",
+      "artist": "Afterlive: Søren Manscher",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/afterlive-soren-manscher",
+      "image": "https://www.datocms-assets.com/98810/1779797461-soren-manscher.png?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-06",
       "artist": "Beethoven 9",
       "venue": "m",
       "status": "Udsolgt",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/beethoven-9",
       "image": "https://www.datocms-assets.com/98810/1774306925-feature_32495.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-06",
+      "artist": "Celloaften",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/celloaften-10",
+      "image": "https://www.datocms-assets.com/98810/1782471652-header_4138-scaled.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-06",
+      "artist": "Fräulein",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/fraulein",
+      "image": "https://www.datocms-assets.com/98810/1765292426-feature_30712.png?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-06",
+      "artist": "Guldimund",
+      "venue": "m",
+      "status": "Venteliste",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/guldimund",
+      "image": "https://www.datocms-assets.com/98810/1759910424-feature_30004.png?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-06",
@@ -732,6 +732,15 @@
       "note": "",
       "url": "https://train.dk/kalender/karoline-mousing-2026",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/956c36f9faf28bcf1d975e031b1cec90325dbc97-2000x2556.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2026-11-06",
+      "artist": "Rikke Thomsen",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/rikke-thomsen",
+      "image": "https://www.datocms-assets.com/98810/1768554032-feature_25902.png?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-06",
@@ -1081,7 +1090,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/bifald-2026"
+      "url": "https://train.dk/kalender/bifald-2026",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/fc524a2b62ce066e7ef1c49a452d7fab9ee23067-2075x2149.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2026-11-28",
@@ -1116,7 +1126,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/guzo-2026"
+      "url": "https://train.dk/kalender/guzo-2026",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/fc67055e083bac16946201d1369f82e11eb7e10e-4922x4363.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2026-12-04",
