@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-10-16 09:14",
+  "opdateret": "2026-10-17 08:46",
   "vindue": [
-    "2026-10-16",
-    "2027-02-13"
+    "2026-10-17",
+    "2027-02-14"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,53 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 95,
-      "hentet": "2026-10-16"
+      "count": 94,
+      "hentet": "2026-10-17"
     },
     "v": {
       "ok": true,
       "count": 33,
-      "hentet": "2026-10-16"
+      "hentet": "2026-10-17"
     },
     "m": {
       "ok": true,
-      "count": 47,
-      "hentet": "2026-10-16"
+      "count": 46,
+      "hentet": "2026-10-17"
     },
     "f": {
       "ok": true,
       "count": 6,
-      "hentet": "2026-10-16"
+      "hentet": "2026-10-17"
     }
   },
   "events": [
-    {
-      "date": "2026-10-16",
-      "artist": "Kaizers Orchestra",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/kaizers-orchestra-2026-2",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/2e2e32d2916cea2cc0da340527af602b4e041bf2-2048x1366.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-10-16",
-      "artist": "Kasper Winding",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/kasper-winding",
-      "image": "https://www.datocms-assets.com/98810/1773319526-feature_32954.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-16",
-      "artist": "Richard Bona",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/richard-bona",
-      "image": "https://www.datocms-assets.com/98810/1781002224-feature_31141.jpg?auto=format&fit=max&w=1200"
-    },
     {
       "date": "2026-10-17",
       "artist": "Hannah Schneider",
@@ -777,6 +750,15 @@
       "note": "",
       "url": "https://voxhall.dk/koncerter/graveyard-2/",
       "image": "https://voxhall.dk/wp-content/uploads/2026/05/Graveyard-2-1477x1920.jpg"
+    },
+    {
+      "date": "2026-11-07",
+      "artist": "Naja Rosa",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/naja-rosa",
+      "image": "https://www.datocms-assets.com/98810/1768467929-feature_30637.png?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-07",
