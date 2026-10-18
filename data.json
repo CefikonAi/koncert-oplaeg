@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-10-17 08:46",
+  "opdateret": "2026-10-18 09:01",
   "vindue": [
-    "2026-10-17",
-    "2027-02-14"
+    "2026-10-18",
+    "2027-02-15"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,62 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 94,
-      "hentet": "2026-10-17"
+      "count": 93,
+      "hentet": "2026-10-18"
     },
     "v": {
       "ok": true,
-      "count": 33,
-      "hentet": "2026-10-17"
+      "count": 32,
+      "hentet": "2026-10-18"
     },
     "m": {
       "ok": true,
-      "count": 46,
-      "hentet": "2026-10-17"
+      "count": 45,
+      "hentet": "2026-10-18"
     },
     "f": {
       "ok": true,
       "count": 6,
-      "hentet": "2026-10-17"
+      "hentet": "2026-10-18"
     }
   },
   "events": [
-    {
-      "date": "2026-10-17",
-      "artist": "Hannah Schneider",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/hannah-schneider",
-      "image": "https://www.datocms-assets.com/98810/1772798424-feature_32824.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-17",
-      "artist": "Inner Circle: Cashu, k!neky & DJ Kontext",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/inner-circle-cashu-kneky-dj-kontext/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/09/Inner-Circle-Hjemmeside-1350x1080-Web.jpg"
-    },
-    {
-      "date": "2026-10-17",
-      "artist": "Kaizers Orchestra",
-      "venue": "t",
-      "status": "Udsolgt",
-      "note": "",
-      "url": "https://train.dk/kalender/kaizers-orchestra-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/2e2e32d2916cea2cc0da340527af602b4e041bf2-2048x1366.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-10-17",
-      "artist": "Milling & Molbech",
-      "venue": "m",
-      "status": "Få tilbage",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/milling-molbech",
-      "image": "https://www.datocms-assets.com/98810/1759219239-feature_29972.png?auto=format&fit=max&w=1200"
-    },
     {
       "date": "2026-10-18",
       "artist": "Classical Mornings",
@@ -753,6 +717,15 @@
     },
     {
       "date": "2026-11-07",
+      "artist": "Guldimund",
+      "venue": "m",
+      "status": "Venteliste",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/guldimund",
+      "image": "https://www.datocms-assets.com/98810/1759910424-feature_30004.png?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-07",
       "artist": "Naja Rosa",
       "venue": "m",
       "status": "",
@@ -1043,7 +1016,7 @@
       "date": "2026-11-27",
       "artist": "Downtown July",
       "venue": "t",
-      "status": "",
+      "status": "Udsolgt",
       "note": "",
       "url": "https://train.dk/kalender/downtown-july-2026",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/a7abd85c9e82bec4d7dff8db98f5a8fb6c138dff-4000x3344.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
