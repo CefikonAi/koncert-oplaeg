@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-10-18 09:01",
+  "opdateret": "2026-10-19 10:10",
   "vindue": [
-    "2026-10-18",
-    "2027-02-15"
+    "2026-10-19",
+    "2027-02-16"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,53 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 93,
-      "hentet": "2026-10-18"
+      "count": 92,
+      "hentet": "2026-10-19"
     },
     "v": {
       "ok": true,
       "count": 32,
-      "hentet": "2026-10-18"
+      "hentet": "2026-10-19"
     },
     "m": {
       "ok": true,
-      "count": 45,
-      "hentet": "2026-10-18"
+      "count": 46,
+      "hentet": "2026-10-19"
     },
     "f": {
       "ok": true,
       "count": 6,
-      "hentet": "2026-10-18"
+      "hentet": "2026-10-19"
     }
   },
   "events": [
-    {
-      "date": "2026-10-18",
-      "artist": "Classical Mornings",
-      "venue": "m",
-      "status": "Få tilbage",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/classical-mornings",
-      "image": "https://www.datocms-assets.com/98810/1741622499-feature_26119.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-18",
-      "artist": "Klavermatiné",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/klavermatine-9",
-      "image": "https://www.datocms-assets.com/98810/1723559517-rama_dsc3231_mh_ny.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-18",
-      "artist": "Michael Hausted",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/michael-hausted-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/9c4ef6c729103e0f13c3e5b853ec0ab28446c10c-3000x3000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
     {
       "date": "2026-10-19",
       "artist": "OPUS 26",
@@ -501,6 +474,15 @@
     },
     {
       "date": "2026-11-02",
+      "artist": "New Music for Strings: Expanding Tradition",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/new-music-for-strings-expanding-tradition",
+      "image": "https://www.datocms-assets.com/98810/1792400435-new_music_for_strings_2022.png?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-02",
       "artist": "Sondre Lerche",
       "venue": "t",
       "status": "",
@@ -750,6 +732,24 @@
       "note": "",
       "url": "https://train.dk/kalender/vepsestikk-2026",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/2b24667a2a324a0a050eb2c7ac2507089a42bcd8-2048x1484.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2026-11-08",
+      "artist": "Operakoncert",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/operakoncert-2",
+      "image": "https://www.datocms-assets.com/98810/1790082039-operakoncert_mh.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-08",
+      "artist": "Saxofonmatiné",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/saxofonmatine-2",
+      "image": "https://www.datocms-assets.com/98810/1736830814-sax-klassen-2022_mh_ny-2.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-09",
@@ -1315,7 +1315,7 @@
       "status": "",
       "note": "",
       "url": "https://train.dk/kalender/unmuted-showcase-2027",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/101588dca8ca9d8dca1241aa03693b4629619933-2160x2700.png?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/8e42c2a1770dcb103c453c0cf7256df1ab5dee6c-2000x2000.png?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-01-09",
