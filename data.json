@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-10-19 10:10",
+  "opdateret": "2026-10-20 09:36",
   "vindue": [
-    "2026-10-19",
-    "2027-02-16"
+    "2026-10-20",
+    "2027-02-17"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,35 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 92,
-      "hentet": "2026-10-19"
+      "count": 93,
+      "hentet": "2026-10-20"
     },
     "v": {
       "ok": true,
       "count": 32,
-      "hentet": "2026-10-19"
+      "hentet": "2026-10-20"
     },
     "m": {
       "ok": true,
       "count": 46,
-      "hentet": "2026-10-19"
+      "hentet": "2026-10-20"
     },
     "f": {
       "ok": true,
-      "count": 6,
-      "hentet": "2026-10-19"
+      "count": 7,
+      "hentet": "2026-10-20"
     }
   },
   "events": [
-    {
-      "date": "2026-10-19",
-      "artist": "OPUS 26",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/opus-26-klaverfestival",
-      "image": "https://www.datocms-assets.com/98810/1789542034-opus-26_mh-3.jpg?auto=format&fit=max&w=1200"
-    },
     {
       "date": "2026-10-20",
       "artist": "OPUS 26",
@@ -761,6 +752,15 @@
       "image": "https://voxhall.dk/wp-content/uploads/2026/03/ELEINE-2-1.jpg"
     },
     {
+      "date": "2026-11-09",
+      "artist": "Syng! Syng! Syng!",
+      "venue": "m",
+      "status": "Venteliste",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/syng-syng-syng",
+      "image": "https://www.datocms-assets.com/98810/1751895628-feature_15832.jpg?auto=format&fit=max&w=1200"
+    },
+    {
       "date": "2026-11-10",
       "artist": "Aegteskab",
       "venue": "t",
@@ -1011,6 +1011,15 @@
       "note": "",
       "url": "https://train.dk/kalender/augustaschackinger-2026",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/12283f89ac0397e7a1a5e1854925fd7046526b92-6000x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2026-11-26",
+      "artist": "Clothing Club",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/clothing-club-2026",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/6850c9d33cbf09b0701865256a2b629e6ef655f2-4000x2922.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2026-11-27",
@@ -1609,6 +1618,14 @@
       "note": "",
       "url": "https://voxhall.dk/koncerter/slomosa/",
       "image": "https://voxhall.dk/wp-content/uploads/2026/09/Slomosa-2.jpg"
+    },
+    {
+      "date": "2027-02-17",
+      "artist": "Kvinde Min, Vimmersvej & Så Længe Jeg Lever",
+      "venue": "f",
+      "status": "",
+      "note": "",
+      "url": "https://friheden.dk/arrangementer/hermans/kvinde-min-vimmersvej-saa-laenge-jeg-lever-2027"
     }
   ]
 }
