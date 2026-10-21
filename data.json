@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-10-20 09:36",
+  "opdateret": "2026-10-21 09:32",
   "vindue": [
-    "2026-10-20",
-    "2027-02-17"
+    "2026-10-21",
+    "2027-02-18"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,35 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 93,
-      "hentet": "2026-10-20"
+      "count": 94,
+      "hentet": "2026-10-21"
     },
     "v": {
       "ok": true,
       "count": 32,
-      "hentet": "2026-10-20"
+      "hentet": "2026-10-21"
     },
     "m": {
       "ok": true,
-      "count": 46,
-      "hentet": "2026-10-20"
+      "count": 45,
+      "hentet": "2026-10-21"
     },
     "f": {
       "ok": true,
-      "count": 7,
-      "hentet": "2026-10-20"
+      "count": 8,
+      "hentet": "2026-10-21"
     }
   },
   "events": [
-    {
-      "date": "2026-10-20",
-      "artist": "OPUS 26",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/opus-26-klaverfestival-2",
-      "image": "https://www.datocms-assets.com/98810/1789542034-opus-26_mh-2.jpg?auto=format&fit=max&w=1200"
-    },
     {
       "date": "2026-10-21",
       "artist": "Bulgarian Voices Angelite",
@@ -215,7 +206,7 @@
       "date": "2026-10-24",
       "artist": "Pil",
       "venue": "m",
-      "status": "Venteliste",
+      "status": "Få tilbage",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/pil",
       "image": "https://www.datocms-assets.com/98810/1786452053-feature_33104.jpg?auto=format&fit=max&w=1200"
@@ -521,7 +512,7 @@
       "date": "2026-11-05",
       "artist": "Demensvenlig koncert",
       "venue": "m",
-      "status": "",
+      "status": "Få tilbage",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/demensvenlig-koncert",
       "image": "https://www.datocms-assets.com/98810/1758724075-feature_23796.jpg?auto=format&fit=max&w=1200"
@@ -845,7 +836,7 @@
       "date": "2026-11-14",
       "artist": "Lakes & Fires",
       "venue": "t",
-      "status": "",
+      "status": "Udsolgt",
       "note": "",
       "url": "https://train.dk/kalender/lakes-fires-2026",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/688c03bfbdf7a8221b74c4dcd387ea8d21e89e48-1770x1420.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
@@ -1339,7 +1330,7 @@
       "date": "2027-01-09",
       "artist": "Wesmo",
       "venue": "t",
-      "status": "",
+      "status": "Udsolgt",
       "note": "",
       "url": "https://train.dk/kalender/wesmo-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/7b5748343bf3dfbfb21aadac0fccc1b9a1a82be6-4000x2653.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
@@ -1626,6 +1617,23 @@
       "status": "",
       "note": "",
       "url": "https://friheden.dk/arrangementer/hermans/kvinde-min-vimmersvej-saa-laenge-jeg-lever-2027"
+    },
+    {
+      "date": "2027-02-18",
+      "artist": "Dawn of Demise",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/dawn-of-demise-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/f9e6e2292bfba9164e294a06e60cc8898a376cca-2000x2391.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-02-18",
+      "artist": "MammaMia, Don't Stop Me Now",
+      "venue": "f",
+      "status": "",
+      "note": "",
+      "url": "https://friheden.dk/arrangementer/hermans/mammamia-dont-stop-me-now"
     }
   ]
 }
