@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-10-21 09:32",
+  "opdateret": "2026-10-22 09:36",
   "vindue": [
-    "2026-10-21",
-    "2027-02-18"
+    "2026-10-22",
+    "2027-02-19"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,61 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 94,
-      "hentet": "2026-10-21"
+      "count": 93,
+      "hentet": "2026-10-22"
     },
     "v": {
       "ok": true,
-      "count": 32,
-      "hentet": "2026-10-21"
+      "count": 33,
+      "hentet": "2026-10-22"
     },
     "m": {
       "ok": true,
-      "count": 45,
-      "hentet": "2026-10-21"
+      "count": 46,
+      "hentet": "2026-10-22"
     },
     "f": {
       "ok": true,
-      "count": 8,
-      "hentet": "2026-10-21"
+      "count": 7,
+      "hentet": "2026-10-22"
     }
   },
   "events": [
-    {
-      "date": "2026-10-21",
-      "artist": "Bulgarian Voices Angelite",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/bulgarian-voices-angelite-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/c13f4b65b31138335d8a545e211f6b8e264517b3-4063x2281.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-10-21",
-      "artist": "Gavin DeGraw",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/gavin-degraw-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/148dd64cc7c4b7176c0966e758a3c60fe15f66f4-3648x4082.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-10-21",
-      "artist": "George Michael Xperience",
-      "venue": "f",
-      "status": "",
-      "note": "",
-      "url": "https://friheden.dk/arrangementer/hermans/george-michael-xperience"
-    },
-    {
-      "date": "2026-10-21",
-      "artist": "OPUS 26",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/opus-26-klaverfestival-3",
-      "image": "https://www.datocms-assets.com/98810/1789542034-opus-26_mh.jpg?auto=format&fit=max&w=1200"
-    },
     {
       "date": "2026-10-22",
       "artist": "Lea Eyðbjørg",
@@ -461,7 +426,7 @@
       "status": "",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/new-music-for-strings-expanding-tradition",
-      "image": "https://www.datocms-assets.com/98810/1792400435-new_music_for_strings_2022.png?auto=format&fit=max&w=1200"
+      "image": "https://www.datocms-assets.com/98810/1792652434-new_music_for_strings.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-02",
@@ -699,7 +664,7 @@
     },
     {
       "date": "2026-11-07",
-      "artist": "Rita Payés",
+      "artist": "Rita Payés & Lucia Fumero",
       "venue": "t",
       "status": "",
       "note": "",
@@ -762,12 +727,30 @@
     },
     {
       "date": "2026-11-10",
+      "artist": "Bigbandkoncert",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/bigbandkoncert-5",
+      "image": "https://www.datocms-assets.com/98810/1759150857-zuheb-ahmed-khan-tabla.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-10",
       "artist": "Boris + Support Planning For Burial",
       "venue": "v",
       "status": "",
       "note": "",
       "url": "https://voxhall.dk/koncerter/boris-support-planning-for-burial/",
       "image": "https://voxhall.dk/wp-content/uploads/2026/05/Boris-2-1283x1920.jpg"
+    },
+    {
+      "date": "2026-11-10",
+      "artist": "Slagtøjsaften",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/slagtoejsaften-5",
+      "image": "https://www.datocms-assets.com/98810/1791284441-slagtoej_2026_2_mh.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-11",
@@ -1546,8 +1529,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/marcus-wav-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/ecdfe708dc41a58e59023688ae8f4bbeca079bec-1840x1232.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/marcus-wav-2026"
     },
     {
       "date": "2027-02-10",
@@ -1634,6 +1616,24 @@
       "status": "",
       "note": "",
       "url": "https://friheden.dk/arrangementer/hermans/mammamia-dont-stop-me-now"
+    },
+    {
+      "date": "2027-02-19",
+      "artist": "Kalaset",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/kalaset-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/d03b43bb6edfc423fb253f554c622c134d3a21b7-4841x2717.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-02-19",
+      "artist": "Tonser",
+      "venue": "v",
+      "status": "",
+      "note": "",
+      "url": "https://voxhall.dk/koncerter/tonser/",
+      "image": "https://voxhall.dk/wp-content/uploads/2026/01/Tonser-2.jpg"
     }
   ]
 }
