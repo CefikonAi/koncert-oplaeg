@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-10-22 09:36",
+  "opdateret": "2026-10-23 09:32",
   "vindue": [
-    "2026-10-22",
-    "2027-02-19"
+    "2026-10-23",
+    "2027-02-20"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,44 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 93,
-      "hentet": "2026-10-22"
+      "count": 95,
+      "hentet": "2026-10-23"
     },
     "v": {
       "ok": true,
-      "count": 33,
-      "hentet": "2026-10-22"
+      "count": 34,
+      "hentet": "2026-10-23"
     },
     "m": {
       "ok": true,
-      "count": 46,
-      "hentet": "2026-10-22"
+      "count": 48,
+      "hentet": "2026-10-23"
     },
     "f": {
       "ok": true,
       "count": 7,
-      "hentet": "2026-10-22"
+      "hentet": "2026-10-23"
     }
   },
   "events": [
-    {
-      "date": "2026-10-22",
-      "artist": "Lea Eyðbjørg",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/lea-eydbjoerg-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/5b790e95a66dd4fcfa3e718e76054dd48c869004-3200x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-10-22",
-      "artist": "OPUS 26",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/opus-26-klaverfestival-4",
-      "image": "https://www.datocms-assets.com/98810/1789542034-opus-26_mh-4.jpg?auto=format&fit=max&w=1200"
-    },
     {
       "date": "2026-10-23",
       "artist": "Dupont",
@@ -426,7 +408,7 @@
       "status": "",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/new-music-for-strings-expanding-tradition",
-      "image": "https://www.datocms-assets.com/98810/1792652434-new_music_for_strings.jpg?auto=format&fit=max&w=1200"
+      "image": "https://www.datocms-assets.com/98810/1792674037-expanding-tradition-e2-80-93-til-musikkons-dk.png?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-02",
@@ -486,7 +468,7 @@
       "date": "2026-11-05",
       "artist": "Guldimund",
       "venue": "m",
-      "status": "Venteliste",
+      "status": "Få tilbage",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/guldimund",
       "image": "https://www.datocms-assets.com/98810/1759910424-feature_30004.png?auto=format&fit=max&w=1200"
@@ -576,7 +558,7 @@
       "date": "2026-11-06",
       "artist": "Guldimund",
       "venue": "m",
-      "status": "Venteliste",
+      "status": "Få tilbage",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/guldimund",
       "image": "https://www.datocms-assets.com/98810/1759910424-feature_30004.png?auto=format&fit=max&w=1200"
@@ -648,7 +630,7 @@
       "date": "2026-11-07",
       "artist": "Guldimund",
       "venue": "m",
-      "status": "Venteliste",
+      "status": "Få tilbage",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/guldimund",
       "image": "https://www.datocms-assets.com/98810/1759910424-feature_30004.png?auto=format&fit=max&w=1200"
@@ -760,6 +742,33 @@
       "note": "",
       "url": "https://train.dk/kalender/isam-b-2026",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/91aa2c73f5acd172df0fdf5b2e97ea80eac33806-2160x1901.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2026-11-11",
+      "artist": "Kammerkoncert",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/kammerkoncert-5",
+      "image": "https://www.datocms-assets.com/98810/1788505233-rama_aarhus_header_kammermusik1-scaled-2.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-11",
+      "artist": "Per Chr. Frost Prisen",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/per-chr-frost-prisen",
+      "image": "https://www.datocms-assets.com/98810/1782914449-feature_34866.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-11",
+      "artist": "When Saints Go Machine",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/when-saints-go-machine",
+      "image": "https://www.datocms-assets.com/98810/1769504437-feature_31048.png?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-11",
@@ -1319,6 +1328,15 @@
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/7b5748343bf3dfbfb21aadac0fccc1b9a1a82be6-4000x2653.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
+      "date": "2027-01-10",
+      "artist": "David Bowie 80 – En hyldestkoncert",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/davidbowie80-2027-2",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/d50eaa4639f73163586bb6a187b21c3102ca9c73-1684x2381.png?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
       "date": "2027-01-15",
       "artist": "FABRÄK",
       "venue": "v",
@@ -1529,7 +1547,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/marcus-wav-2026"
+      "url": "https://train.dk/kalender/marcus-wav-2026",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/ecdfe708dc41a58e59023688ae8f4bbeca079bec-1840x1232.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-02-10",
@@ -1634,6 +1653,33 @@
       "note": "",
       "url": "https://voxhall.dk/koncerter/tonser/",
       "image": "https://voxhall.dk/wp-content/uploads/2026/01/Tonser-2.jpg"
+    },
+    {
+      "date": "2027-02-20",
+      "artist": "Clemens & Jokeren",
+      "venue": "v",
+      "status": "",
+      "note": "",
+      "url": "https://voxhall.dk/koncerter/clemens-jokeren/",
+      "image": "https://voxhall.dk/wp-content/uploads/2026/05/Clemens-Jokeren-2-1358x1920.jpg"
+    },
+    {
+      "date": "2027-02-20",
+      "artist": "Jonny Hefty & Jøden",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/jonny-hefty-joeden-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/483713057caef623b9b931703c99ad9ba1e693f3-4000x2667.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-02-20",
+      "artist": "Ude Af Kontrol",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/ude-af-kontrol-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/09cd616c148906aabcdfaed983e58d6f4c1014cd-3840x2160.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     }
   ]
 }
