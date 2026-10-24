@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-10-23 09:32",
+  "opdateret": "2026-10-24 09:02",
   "vindue": [
-    "2026-10-23",
-    "2027-02-20"
+    "2026-10-24",
+    "2027-02-21"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,80 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 95,
-      "hentet": "2026-10-23"
+      "count": 92,
+      "hentet": "2026-10-24"
     },
     "v": {
       "ok": true,
-      "count": 34,
-      "hentet": "2026-10-23"
+      "count": 33,
+      "hentet": "2026-10-24"
     },
     "m": {
       "ok": true,
-      "count": 48,
-      "hentet": "2026-10-23"
+      "count": 49,
+      "hentet": "2026-10-24"
     },
     "f": {
       "ok": true,
       "count": 7,
-      "hentet": "2026-10-23"
+      "hentet": "2026-10-24"
     }
   },
   "events": [
-    {
-      "date": "2026-10-23",
-      "artist": "Dupont",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/dupont-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/7b009f7a68a30531602f89568126fcad18818b92-2165x1920.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-10-23",
-      "artist": "Hjalmer",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/hjalmer",
-      "image": "https://www.datocms-assets.com/98810/1762851625-feature_30404.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-23",
-      "artist": "Kind Mod Kind",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/kind-mod-kind-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/5a21fe755db84cd8858d1e11557e8ae297072e38-1600x2000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-10-23",
-      "artist": "Mono – 25 år for musikken feat.: Folket + Bænch + Danafae/Permanoia & Situationsfornærmelse",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/mono-25-aar-for-musikken-feat-folket-baench-danafae-permanoia-situationsfornaermelse/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/06/MONO-25-2-1375x1920.jpg"
-    },
-    {
-      "date": "2026-10-23",
-      "artist": "OPUS 26",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/opus-26-klaverfestival-5",
-      "image": "https://www.datocms-assets.com/98810/1789542034-opus-26_mh-2.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-23",
-      "artist": "The Mukherjee Development",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/the-mukherjee-development-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/2b34ae045e4af6884138dbfc551ef5840c14614c-1600x1600.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
     {
       "date": "2026-10-24",
       "artist": "A.S. Fanning",
@@ -531,7 +477,7 @@
       "date": "2026-11-06",
       "artist": "Beethoven 9",
       "venue": "m",
-      "status": "Udsolgt",
+      "status": "Få tilbage",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/beethoven-9",
       "image": "https://www.datocms-assets.com/98810/1774306925-feature_32495.jpg?auto=format&fit=max&w=1200"
@@ -778,6 +724,33 @@
       "note": "",
       "url": "https://voxhall.dk/koncerter/yndling/",
       "image": "https://voxhall.dk/wp-content/uploads/2026/08/Yndling-2-1440x1920.jpg"
+    },
+    {
+      "date": "2026-11-12",
+      "artist": "Folkeklubben & Danmarks Underholdningsorkester",
+      "venue": "m",
+      "status": "Få tilbage",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/folkeklubben-danmarks-underholdningsorkester",
+      "image": "https://www.datocms-assets.com/98810/1764752463-feature_30447.png?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-12",
+      "artist": "Guitaraften",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/guitaraften-2",
+      "image": "https://www.datocms-assets.com/98810/1717079749-guitar-klassisk-2.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-12",
+      "artist": "Mendelssohn 3",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/mendelssohn-3",
+      "image": "https://www.datocms-assets.com/98810/1774306925-feature_32497.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-12",
