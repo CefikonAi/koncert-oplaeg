@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-10-24 09:02",
+  "opdateret": "2026-10-25 09:20",
   "vindue": [
-    "2026-10-24",
-    "2027-02-21"
+    "2026-10-25",
+    "2027-02-22"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,115 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 92,
-      "hentet": "2026-10-24"
+      "count": 89,
+      "hentet": "2026-10-25"
     },
     "v": {
       "ok": true,
-      "count": 33,
-      "hentet": "2026-10-24"
+      "count": 31,
+      "hentet": "2026-10-25"
     },
     "m": {
       "ok": true,
-      "count": 49,
-      "hentet": "2026-10-24"
+      "count": 48,
+      "hentet": "2026-10-25"
     },
     "f": {
       "ok": true,
       "count": 7,
-      "hentet": "2026-10-24"
+      "hentet": "2026-10-25"
     }
   },
   "events": [
-    {
-      "date": "2026-10-24",
-      "artist": "A.S. Fanning",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/a-s-fanning/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/09/A.S.-Fanning-2.jpg"
-    },
-    {
-      "date": "2026-10-24",
-      "artist": "August Høyen",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/august-høyen-2026"
-    },
-    {
-      "date": "2026-10-24",
-      "artist": "Cafékoncert med elever fra Aarhus Musikskole",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/cafekoncert-med-elever-fra-aarhus-musikskole",
-      "image": "https://www.datocms-assets.com/98810/1789560673-cafekoncert_hjemmeside.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-24",
-      "artist": "Familiekoncert: Hvem er Carl? Hvem er jeg?",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/familiekoncert-hvem-er-carl-hvem-er-jeg",
-      "image": "https://www.datocms-assets.com/98810/1774306931-feature_32487.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-24",
-      "artist": "Farveblind",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/farveblind-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/06e27d8d963b8116d3c7a781426e9d779a54334c-5472x3648.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-10-24",
-      "artist": "OPUS 26",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/opus-26-klaverfestival-6",
-      "image": "https://www.datocms-assets.com/98810/1789542034-opus-26_mh-2.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-24",
-      "artist": "OPUS 26",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/opus-26",
-      "image": "https://www.datocms-assets.com/98810/1789542034-opus-26_mh-2.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-24",
-      "artist": "Pil",
-      "venue": "m",
-      "status": "Få tilbage",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/pil",
-      "image": "https://www.datocms-assets.com/98810/1786452053-feature_33104.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-24",
-      "artist": "Vilma Crow + Support Scout Powell",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/vilma-crow/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/01/VilmaKrage-2-1262x1920.jpg"
-    },
-    {
-      "date": "2026-10-24",
-      "artist": "lucca",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/lucca-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/5b9674b194985daa8c5e87e7e6449eb1c89a9587-5760x3840.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
     {
       "date": "2026-10-25",
       "artist": "Album",
@@ -763,6 +674,33 @@
     },
     {
       "date": "2026-11-13",
+      "artist": "DM Brass 2026",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/dm-brass-2026",
+      "image": "https://www.datocms-assets.com/98810/1757668841-feature_29839.png?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-13",
+      "artist": "Folkeklubben & Danmarks Underholdningsorkester",
+      "venue": "m",
+      "status": "Venteliste",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/folkeklubben-danmarks-underholdningsorkester",
+      "image": "https://www.datocms-assets.com/98810/1764752463-feature_30447.png?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-13",
+      "artist": "Koncert med tidlig musik",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/koncert-med-tidlig-musik",
+      "image": "https://www.datocms-assets.com/98810/1788505233-rama_aarhus_header_kammermusik1-scaled-3.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-13",
       "artist": "Kunstværk",
       "venue": "t",
       "status": "",
@@ -787,6 +725,15 @@
       "note": "",
       "url": "https://voxhall.dk/koncerter/baest-2/",
       "image": "https://voxhall.dk/wp-content/uploads/2026/04/BAEST-2-1536x1920.jpg"
+    },
+    {
+      "date": "2026-11-14",
+      "artist": "DM Brass 2026",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/dm-brass-2026",
+      "image": "https://www.datocms-assets.com/98810/1757668841-feature_29839.png?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-14",
