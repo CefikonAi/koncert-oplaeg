@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-10-25 09:20",
+  "opdateret": "2026-10-26 10:25",
   "vindue": [
-    "2026-10-25",
-    "2027-02-22"
+    "2026-10-26",
+    "2027-02-23"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,44 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 89,
-      "hentet": "2026-10-25"
+      "count": 90,
+      "hentet": "2026-10-26"
     },
     "v": {
       "ok": true,
       "count": 31,
-      "hentet": "2026-10-25"
+      "hentet": "2026-10-26"
     },
     "m": {
       "ok": true,
-      "count": 48,
-      "hentet": "2026-10-25"
+      "count": 47,
+      "hentet": "2026-10-26"
     },
     "f": {
       "ok": true,
       "count": 7,
-      "hentet": "2026-10-25"
+      "hentet": "2026-10-26"
     }
   },
   "events": [
-    {
-      "date": "2026-10-25",
-      "artist": "Album",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/album",
-      "image": "https://www.datocms-assets.com/98810/1751460012-1920_1980_album_jesper_nyborg.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-25",
-      "artist": "OPUS 26",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/opus-26-klaverfestival-7",
-      "image": "https://www.datocms-assets.com/98810/1789542034-opus-26_mh-2.jpg?auto=format&fit=max&w=1200"
-    },
     {
       "date": "2026-10-27",
       "artist": "Twenty One Children",
@@ -737,6 +719,15 @@
     },
     {
       "date": "2026-11-14",
+      "artist": "Fra glemsel til genopdagelse: Releasekoncert for RESURGENCE",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/fra-glemsel-til-genopdagelse-releasekoncert-for-resurgence",
+      "image": "https://www.datocms-assets.com/98810/1791457238-janne-fredens-s-c3-b8ren-rastogi-e1680101533572.png?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-14",
       "artist": "Konvent",
       "venue": "t",
       "status": "",
@@ -1108,6 +1099,15 @@
       "artist": "Hymns From Nineveh",
       "venue": "t",
       "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/hymns-from-nineveh-2026-2",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/c8cad47102b1cc0a3075fdf77170475aac947903-2618x3920.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2026-12-12",
+      "artist": "Hymns From Nineveh",
+      "venue": "t",
+      "status": "Udsolgt",
       "note": "",
       "url": "https://train.dk/kalender/hymns-from-nineveh-2026",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/c8cad47102b1cc0a3075fdf77170475aac947903-2618x3920.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
