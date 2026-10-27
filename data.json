@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-10-26 10:25",
+  "opdateret": "2026-10-27 09:59",
   "vindue": [
-    "2026-10-26",
-    "2027-02-23"
+    "2026-10-27",
+    "2027-02-24"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,23 +13,23 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 90,
-      "hentet": "2026-10-26"
+      "count": 92,
+      "hentet": "2026-10-27"
     },
     "v": {
       "ok": true,
       "count": 31,
-      "hentet": "2026-10-26"
+      "hentet": "2026-10-27"
     },
     "m": {
       "ok": true,
-      "count": 47,
-      "hentet": "2026-10-26"
+      "count": 48,
+      "hentet": "2026-10-27"
     },
     "f": {
       "ok": true,
       "count": 7,
-      "hentet": "2026-10-26"
+      "hentet": "2026-10-27"
     }
   },
   "events": [
@@ -199,10 +199,10 @@
       "date": "2026-10-31",
       "artist": "Von Quar",
       "venue": "t",
-      "status": "",
+      "status": "Udsolgt",
       "note": "",
       "url": "https://train.dk/kalender/vonquar-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/70d81d0bbceb5e11e8798a40f4f6598d99f6d72d-5971x3981.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/1d7504c2d883a948374197aeaac80391984ba1a0-2902x2959.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2026-11-01",
@@ -251,6 +251,15 @@
     },
     {
       "date": "2026-11-02",
+      "artist": "Online informationsmøde",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/online-informationsmoede-klassiske-uddannelser",
+      "image": "https://www.datocms-assets.com/98810/1793077234-2026-rama-aarhus_062_3000px-event.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-02",
       "artist": "Sondre Lerche",
       "venue": "t",
       "status": "",
@@ -292,7 +301,7 @@
       "status": "Udsolgt",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/beethoven-9",
-      "image": "https://www.datocms-assets.com/98810/1774306925-feature_32495.jpg?auto=format&fit=max&w=1200"
+      "image": "https://www.datocms-assets.com/98810/1793010672-feature_32495.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-05",
@@ -370,10 +379,10 @@
       "date": "2026-11-06",
       "artist": "Beethoven 9",
       "venue": "m",
-      "status": "Få tilbage",
+      "status": "Udsolgt",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/beethoven-9",
-      "image": "https://www.datocms-assets.com/98810/1774306925-feature_32495.jpg?auto=format&fit=max&w=1200"
+      "image": "https://www.datocms-assets.com/98810/1793010672-feature_32495.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-06",
@@ -850,7 +859,7 @@
       "status": "",
       "note": "",
       "url": "https://train.dk/kalender/carpark-north-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/735c46ce22eef30dc12e4c6d2fea158a4f3abae2-4855x6279.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/22a8b9a9a7f201f31a159f701287eab0f6e05174-3000x3031.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2026-11-21",
@@ -976,7 +985,7 @@
       "status": "",
       "note": "",
       "url": "https://train.dk/kalender/chris-burton-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/873e13d6799b397946af311de46ee65f53420cd2-1869x2803.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/590c01b47de397b17a2e98eb506b93cd9c963cff-1869x2347.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2026-12-04",
@@ -1021,7 +1030,7 @@
       "status": "",
       "note": "",
       "url": "https://train.dk/kalender/syl-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/3747e221aed68d19a2d03eeb3947ca27105050f0-3193x3992.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/bf0c405a6b8f80ea389c125e9188f1951fe2bb95-3193x3182.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2026-12-05",
@@ -1200,7 +1209,7 @@
       "status": "",
       "note": "",
       "url": "https://train.dk/kalender/infernal-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/28b42b408d3528c87554a3cd3dfa0858edb2b096-4420x2481.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/21b05941e0e3f153bdb88a22f4a213811e63480d-3023x2481.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2026-12-29",
@@ -1298,7 +1307,7 @@
       "status": "",
       "note": "",
       "url": "https://train.dk/kalender/mattias-kolstrup-2027",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/5d07ec0f2704951b55ec9c4362061faf604ba11a-4000x2245.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/8658083c37623acadd1d9d0500f31ce7d5339a0a-3119x2559.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-01-22",
@@ -1590,7 +1599,7 @@
       "status": "",
       "note": "",
       "url": "https://train.dk/kalender/jonny-hefty-joeden-2027",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/483713057caef623b9b931703c99ad9ba1e693f3-4000x2667.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/4bf7e132e99082789cb1fe114fb71c5bda6c75ea-3000x2913.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-02-20",
@@ -1600,6 +1609,24 @@
       "note": "",
       "url": "https://train.dk/kalender/ude-af-kontrol-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/09cd616c148906aabcdfaed983e58d6f4c1014cd-3840x2160.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-02-24",
+      "artist": "DUSCH",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/dusch-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/5dbb274a57afbd2dd4f8a030a351b5111338bb0e-3387x2246.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-02-24",
+      "artist": "The Hello Darlins",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/the-hello-darlins-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/3081db2ba331611bd0afdea6f66587ffc3b22b0a-4000x2828.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     }
   ]
 }
