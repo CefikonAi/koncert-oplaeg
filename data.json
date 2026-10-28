@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-10-27 09:59",
+  "opdateret": "2026-10-28 10:46",
   "vindue": [
-    "2026-10-27",
-    "2027-02-24"
+    "2026-10-28",
+    "2027-02-25"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,35 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 92,
-      "hentet": "2026-10-27"
+      "count": 94,
+      "hentet": "2026-10-28"
     },
     "v": {
       "ok": true,
-      "count": 31,
-      "hentet": "2026-10-27"
+      "count": 33,
+      "hentet": "2026-10-28"
     },
     "m": {
       "ok": true,
       "count": 48,
-      "hentet": "2026-10-27"
+      "hentet": "2026-10-28"
     },
     "f": {
       "ok": true,
       "count": 7,
-      "hentet": "2026-10-27"
+      "hentet": "2026-10-28"
     }
   },
   "events": [
-    {
-      "date": "2026-10-27",
-      "artist": "Twenty One Children",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/twenty-one-children-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/7f64bb9fea20f2dadba9b488e2c65819fcc2e285-1600x1067.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
     {
       "date": "2026-10-28",
       "artist": "ALL NEW FESTIVAL part #1: Bands & Deep Divers",
@@ -379,7 +370,7 @@
       "date": "2026-11-06",
       "artist": "Beethoven 9",
       "venue": "m",
-      "status": "Udsolgt",
+      "status": "Få tilbage",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/beethoven-9",
       "image": "https://www.datocms-assets.com/98810/1793010672-feature_32495.jpg?auto=format&fit=max&w=1200"
@@ -998,6 +989,15 @@
     },
     {
       "date": "2026-12-04",
+      "artist": "OG DU LYSER",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/og-du-lyser-2026",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/01ed16ba2b24e85d9d927cd1f3f2521ff5e2a711-3501x3577.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2026-12-04",
       "artist": "PAY",
       "venue": "v",
       "status": "",
@@ -1390,6 +1390,15 @@
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/bc9cbf442790ea4d08686c180b2540f852be25a8-2667x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
+      "date": "2027-01-30",
+      "artist": "Undergang & Malformed",
+      "venue": "v",
+      "status": "",
+      "note": "",
+      "url": "https://voxhall.dk/koncerter/undergang-malformed/",
+      "image": "https://voxhall.dk/wp-content/uploads/2022/09/VoxHall-facade1-Recovered-1920x1280.jpg"
+    },
+    {
       "date": "2027-02-03",
       "artist": "Schæfer",
       "venue": "t",
@@ -1627,6 +1636,33 @@
       "note": "",
       "url": "https://train.dk/kalender/the-hello-darlins-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/3081db2ba331611bd0afdea6f66587ffc3b22b0a-4000x2828.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-02-25",
+      "artist": "KAKKMADDAFAKKA",
+      "venue": "v",
+      "status": "",
+      "note": "",
+      "url": "https://voxhall.dk/koncerter/kakkmaddafakka_26/",
+      "image": "https://voxhall.dk/wp-content/uploads/2026/09/Kakkmaddafkka-2.jpg"
+    },
+    {
+      "date": "2027-02-25",
+      "artist": "Sebastian Wolff",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/sebastian-wolff-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/823fa64ec33ecc4d085f1b1b6f9416a917a9c58b-3612x3456.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-02-25",
+      "artist": "ibens",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/ibens-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/943d0675abecbc5760f5f4858011442154f92a0b-5283x3522.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     }
   ]
 }
