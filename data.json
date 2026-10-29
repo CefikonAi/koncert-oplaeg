@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-10-28 10:46",
+  "opdateret": "2026-10-29 11:05",
   "vindue": [
-    "2026-10-28",
-    "2027-02-25"
+    "2026-10-29",
+    "2027-02-26"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,44 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 94,
-      "hentet": "2026-10-28"
+      "count": 97,
+      "hentet": "2026-10-29"
     },
     "v": {
       "ok": true,
-      "count": 33,
-      "hentet": "2026-10-28"
+      "count": 32,
+      "hentet": "2026-10-29"
     },
     "m": {
       "ok": true,
-      "count": 48,
-      "hentet": "2026-10-28"
+      "count": 47,
+      "hentet": "2026-10-29"
     },
     "f": {
       "ok": true,
       "count": 7,
-      "hentet": "2026-10-28"
+      "hentet": "2026-10-29"
     }
   },
   "events": [
-    {
-      "date": "2026-10-28",
-      "artist": "ALL NEW FESTIVAL part #1: Bands & Deep Divers",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/all-new-festival-part-1-bands-deep-divers-2",
-      "image": "https://www.datocms-assets.com/98810/1787662886-dscf6192-2.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-28",
-      "artist": "ALL NEW FESTIVAL part #1: Bands & Deep Divers",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/all-new-festival-part-1-bands-deep-divers-3",
-      "image": "https://www.datocms-assets.com/98810/1787662886-dscf6192-4.jpg?auto=format&fit=max&w=1200"
-    },
     {
       "date": "2026-10-29",
       "artist": "ALL NEW FESTIVAL part #2: Bands & Deep Divers",
@@ -754,6 +736,15 @@
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/7a6716cce981edd380b871fe703b75e34daefb9b-4961x2784.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
+      "date": "2026-11-14",
+      "artist": "Poul Krebs Gallakoncert",
+      "venue": "m",
+      "status": "Venteliste",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/poul-krebs-gallakoncert",
+      "image": "https://www.datocms-assets.com/98810/1757673044-feature_29668.png?auto=format&fit=max&w=1200"
+    },
+    {
       "date": "2026-11-15",
       "artist": "Joan As Police Woman",
       "venue": "t",
@@ -912,8 +903,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/clothing-club-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/6850c9d33cbf09b0701865256a2b629e6ef655f2-4000x2922.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/clothing-club-2026"
     },
     {
       "date": "2026-11-27",
@@ -1360,8 +1350,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/alien-force-animalyze-2027",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/848b35ad37a1b866e4313859de7fd7d55ff7868b-2000x1321.png?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/alien-force-animalyze-2027"
     },
     {
       "date": "2027-01-29",
@@ -1388,15 +1377,6 @@
       "note": "",
       "url": "https://train.dk/kalender/thor-farlov-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/bc9cbf442790ea4d08686c180b2540f852be25a8-2667x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2027-01-30",
-      "artist": "Undergang & Malformed",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/undergang-malformed/",
-      "image": "https://voxhall.dk/wp-content/uploads/2022/09/VoxHall-facade1-Recovered-1920x1280.jpg"
     },
     {
       "date": "2027-02-03",
@@ -1498,6 +1478,15 @@
     },
     {
       "date": "2027-02-10",
+      "artist": "Smugler × Øjesten",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/smugler-oejesten-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/01d78126899fad64294fb0514c466454612c4f92-3000x3000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-02-10",
       "artist": "Warhaus",
       "venue": "t",
       "status": "",
@@ -1520,8 +1509,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/panzerchrist-2027",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/77f1015009e4a97ecfd962382118d5f2120eb79b-4902x3268.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/panzerchrist-2027"
     },
     {
       "date": "2027-02-11",
@@ -1648,6 +1636,15 @@
     },
     {
       "date": "2027-02-25",
+      "artist": "Per Vers × Danish Youth Jazz Orchestra",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/per-vers-dyjo-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/6266208c6d0238fb53574cc6860d411848d77938-3500x2333.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-02-25",
       "artist": "Sebastian Wolff",
       "venue": "t",
       "status": "",
@@ -1663,6 +1660,15 @@
       "note": "",
       "url": "https://train.dk/kalender/ibens-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/943d0675abecbc5760f5f4858011442154f92a0b-5283x3522.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-02-26",
+      "artist": "Eivør",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/eivoer-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/e08a715b89583db78a820a0e62fa0405bc6f4f50-2077x2769.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     }
   ]
 }
