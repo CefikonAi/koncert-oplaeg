@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-10-29 11:05",
+  "opdateret": "2026-10-30 11:01",
   "vindue": [
-    "2026-10-29",
-    "2027-02-26"
+    "2026-10-30",
+    "2027-02-27"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,76 +13,31 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 97,
-      "hentet": "2026-10-29"
+      "count": 98,
+      "hentet": "2026-10-30"
     },
     "v": {
       "ok": true,
-      "count": 32,
-      "hentet": "2026-10-29"
+      "count": 35,
+      "hentet": "2026-10-30"
     },
     "m": {
       "ok": true,
-      "count": 47,
-      "hentet": "2026-10-29"
+      "count": 48,
+      "hentet": "2026-10-30"
     },
     "f": {
       "ok": true,
       "count": 7,
-      "hentet": "2026-10-29"
+      "hentet": "2026-10-30"
     }
   },
   "events": [
     {
-      "date": "2026-10-29",
-      "artist": "ALL NEW FESTIVAL part #2: Bands & Deep Divers",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/all-new-festival-part-2-bands-deep-divers-2",
-      "image": "https://www.datocms-assets.com/98810/1787662886-dscf6192.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-29",
-      "artist": "ALL NEW FESTIVAL part #2: Bands & Deep Divers",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/all-new-festival-part-2-bands-deep-divers-3",
-      "image": "https://www.datocms-assets.com/98810/1787662886-dscf6192-3.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-29",
-      "artist": "Cæcilie Norby",
-      "venue": "m",
-      "status": "Venteliste",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/caecilie-norby",
-      "image": "https://www.datocms-assets.com/98810/1769775036-feature_30954.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-29",
-      "artist": "Rasmus Walter",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/rasmus-walter-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/497565a35d12408c86b2b80f732fc6173817c7c8-4500x4498.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-10-29",
-      "artist": "Soppgirobygget",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/soppgirobygget-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/634db71822f3ca2cdd67682ee859e1dc946c59b5-1600x1832.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
       "date": "2026-10-30",
       "artist": "Barselona",
       "venue": "t",
-      "status": "",
+      "status": "Udsolgt",
       "note": "",
       "url": "https://train.dk/kalender/barselona-2026",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/20bc16bcb98a32cd09ea1f5744c9de71a7d467dd-2025x1921.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
@@ -100,7 +55,7 @@
       "date": "2026-10-30",
       "artist": "Der brænder en ild",
       "venue": "m",
-      "status": "",
+      "status": "Få tilbage",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/der-braender-en-ild",
       "image": "https://www.datocms-assets.com/98810/1791526854-feature_35435.jpg?auto=format&fit=max&w=1200"
@@ -352,7 +307,7 @@
       "date": "2026-11-06",
       "artist": "Beethoven 9",
       "venue": "m",
-      "status": "Få tilbage",
+      "status": "Udsolgt",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/beethoven-9",
       "image": "https://www.datocms-assets.com/98810/1793010672-feature_32495.jpg?auto=format&fit=max&w=1200"
@@ -584,7 +539,7 @@
     },
     {
       "date": "2026-11-11",
-      "artist": "When Saints Go Machine",
+      "artist": "When Saints go Machine",
       "venue": "m",
       "status": "",
       "note": "",
@@ -746,12 +701,48 @@
     },
     {
       "date": "2026-11-15",
+      "artist": "AFLYST: Klavermatiné",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/klavermatine-12",
+      "image": "https://www.datocms-assets.com/98810/1761627624-rama_komponistklassen_dsc3173_header-scaled.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-15",
       "artist": "Joan As Police Woman",
       "venue": "t",
       "status": "",
       "note": "",
       "url": "https://train.dk/kalender/joan-as-police-woman-2026",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/e3ae34cb910ec58de8259e0abf98cb6bb459dd59-2906x2452.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2026-11-15",
+      "artist": "Lise de la Salle",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/lise-de-la-salle",
+      "image": "https://www.datocms-assets.com/98810/1775718626-feature_33245.png?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-16",
+      "artist": "Debutkoncert",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/debutkoncert-rasmus-dahl-klaver",
+      "image": "https://www.datocms-assets.com/98810/1728644451-rasmusdahl_solist-scaled.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-16",
+      "artist": "Koncert med tidlig musik",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/koncert-med-tidlig-musik-2",
+      "image": "https://www.datocms-assets.com/98810/1788505233-rama_aarhus_header_kammermusik1-scaled-3.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-18",
@@ -903,7 +894,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/clothing-club-2026"
+      "url": "https://train.dk/kalender/clothing-club-2026",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/6850c9d33cbf09b0701865256a2b629e6ef655f2-4000x2922.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2026-11-27",
@@ -1337,6 +1329,15 @@
     },
     {
       "date": "2027-01-23",
+      "artist": "Juno × Standart",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/juno-standart-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/3ca06163fd6be34e0d36d19d3303497ef2305e23-1920x1080.png?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-01-23",
       "artist": "Oilly Wallace",
       "venue": "t",
       "status": "",
@@ -1350,7 +1351,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/alien-force-animalyze-2027"
+      "url": "https://train.dk/kalender/alien-force-animalyze-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/848b35ad37a1b866e4313859de7fd7d55ff7868b-2000x1321.png?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-01-29",
@@ -1377,6 +1379,15 @@
       "note": "",
       "url": "https://train.dk/kalender/thor-farlov-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/bc9cbf442790ea4d08686c180b2540f852be25a8-2667x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-01-30",
+      "artist": "Undergang & Malformed",
+      "venue": "v",
+      "status": "",
+      "note": "",
+      "url": "https://voxhall.dk/koncerter/undergang-malformed/",
+      "image": "https://voxhall.dk/wp-content/uploads/2026/10/Undergang-2.jpg"
     },
     {
       "date": "2027-02-03",
@@ -1538,6 +1549,15 @@
       "image": "https://voxhall.dk/wp-content/uploads/2026/09/Slomosa-2.jpg"
     },
     {
+      "date": "2027-02-13",
+      "artist": "Hatesphere + Support Universal Enemy",
+      "venue": "v",
+      "status": "",
+      "note": "",
+      "url": "https://voxhall.dk/koncerter/hatesphere-support-universal-enemy/",
+      "image": "https://voxhall.dk/wp-content/uploads/2026/10/Hatesphere-1912x1920.jpg"
+    },
+    {
       "date": "2027-02-17",
       "artist": "Kvinde Min, Vimmersvej & Så Længe Jeg Lever",
       "venue": "f",
@@ -1578,7 +1598,7 @@
       "status": "",
       "note": "",
       "url": "https://voxhall.dk/koncerter/tonser/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/01/Tonser-2.jpg"
+      "image": "https://voxhall.dk/wp-content/uploads/2026/01/TONSER-2-1.jpg"
     },
     {
       "date": "2027-02-20",
@@ -1669,6 +1689,33 @@
       "note": "",
       "url": "https://train.dk/kalender/eivoer-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/e08a715b89583db78a820a0e62fa0405bc6f4f50-2077x2769.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-02-27",
+      "artist": "OKAYNICO",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/okaynico-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/aa5f953bc17893f15f835b30f67e766ac21b28c5-3402x3751.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-02-27",
+      "artist": "School Of X",
+      "venue": "v",
+      "status": "",
+      "note": "",
+      "url": "https://voxhall.dk/koncerter/school-of-x-2027/",
+      "image": "https://voxhall.dk/wp-content/uploads/2026/09/School-Of-X-2.jpg"
+    },
+    {
+      "date": "2027-02-27",
+      "artist": "Toldermania",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/toldermania-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/3fb2b2604d347bb186f71301736703de74abf2b3-1600x1994.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     }
   ]
 }
