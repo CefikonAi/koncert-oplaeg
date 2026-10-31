@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-10-30 11:01",
+  "opdateret": "2026-10-31 10:33",
   "vindue": [
-    "2026-10-30",
-    "2027-02-27"
+    "2026-10-31",
+    "2027-02-28"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,89 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 98,
-      "hentet": "2026-10-30"
+      "count": 94,
+      "hentet": "2026-10-31"
     },
     "v": {
       "ok": true,
-      "count": 35,
-      "hentet": "2026-10-30"
+      "count": 34,
+      "hentet": "2026-10-31"
     },
     "m": {
       "ok": true,
-      "count": 48,
-      "hentet": "2026-10-30"
+      "count": 52,
+      "hentet": "2026-10-31"
     },
     "f": {
       "ok": true,
       "count": 7,
-      "hentet": "2026-10-30"
+      "hentet": "2026-10-31"
     }
   },
   "events": [
-    {
-      "date": "2026-10-30",
-      "artist": "Barselona",
-      "venue": "t",
-      "status": "Udsolgt",
-      "note": "",
-      "url": "https://train.dk/kalender/barselona-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/20bc16bcb98a32cd09ea1f5744c9de71a7d467dd-2025x1921.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-10-30",
-      "artist": "Cevil",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/cevil-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/3c064e9f31331e7c66def0f92262151823e126c5-2250x2250.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-10-30",
-      "artist": "Der brænder en ild",
-      "venue": "m",
-      "status": "Få tilbage",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/der-braender-en-ild",
-      "image": "https://www.datocms-assets.com/98810/1791526854-feature_35435.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-30",
-      "artist": "Håkan Hardenberger",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/hakan-hardenberger",
-      "image": "https://www.datocms-assets.com/98810/1774306925-feature_32494.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-30",
-      "artist": "Jens Unmack",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/jens-unmack",
-      "image": "https://www.datocms-assets.com/98810/1780592504-feature_34195.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-30",
-      "artist": "Karla Korsbak",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/karla-korsbak-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/f15bba299bb147d98e6c664064508f9aadcc9cdd-4185x4577.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-10-30",
-      "artist": "Malk De Koijn",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/malk-de-koijn-5/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/08/Malk-De-Koijn-2.jpg"
-    },
     {
       "date": "2026-10-31",
       "artist": "Mina Okabe",
@@ -386,7 +323,7 @@
     },
     {
       "date": "2026-11-06",
-      "artist": "TootArd",
+      "artist": "TootArd + Support QT Carter",
       "venue": "v",
       "status": "",
       "note": "",
@@ -665,15 +602,6 @@
     },
     {
       "date": "2026-11-14",
-      "artist": "Konvent",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/konvent-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/c057c80d7b00d300dc9b4593d1802441644d3a55-2013x1969.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-14",
       "artist": "Lakes & Fires",
       "venue": "t",
       "status": "Udsolgt",
@@ -745,6 +673,33 @@
       "image": "https://www.datocms-assets.com/98810/1788505233-rama_aarhus_header_kammermusik1-scaled-3.jpg?auto=format&fit=max&w=1200"
     },
     {
+      "date": "2026-11-17",
+      "artist": "AFLYST: Solistkoncert",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/solistkoncert-clemente-prudencio-klaver-3",
+      "image": "https://www.datocms-assets.com/98810/1778734836-original-mh_ny.jpeg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-17",
+      "artist": "Koncertcafé Aarhus",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/koncertcafe-aarhus-4",
+      "image": "https://www.datocms-assets.com/98810/1788498083-rama_aarhus_header_bas_guitar-scaled-2.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-17",
+      "artist": "Trompetaften",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/trompetaften",
+      "image": "https://www.datocms-assets.com/98810/1717079749-rama_dk_4321.jpg?auto=format&fit=max&w=1200"
+    },
+    {
       "date": "2026-11-18",
       "artist": "Ana Juél",
       "venue": "t",
@@ -752,6 +707,33 @@
       "note": "",
       "url": "https://train.dk/kalender/ana-juel-2026",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/5c1d41e02d763324a607967605c225bc77325d48-5158x4480.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2026-11-18",
+      "artist": "Beth Hart",
+      "venue": "m",
+      "status": "Venteliste",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/beth-hart",
+      "image": "https://www.datocms-assets.com/98810/1741775428-feature_26280.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-18",
+      "artist": "Bratschaften",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/bratschaften",
+      "image": "https://www.datocms-assets.com/98810/1763623946-bratsch2_nmfs18_mh-ny.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-18",
+      "artist": "Koncertcafé Aarhus",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/koncertcafe-aarhus-5",
+      "image": "https://www.datocms-assets.com/98810/1788498083-rama_aarhus_header_sang1-scaled.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-18",
@@ -779,6 +761,15 @@
       "note": "",
       "url": "https://train.dk/kalender/dahlin-2026",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/85a43f7df2be2cdfffaf9c5e0cdf30d85cfcf2e5-6336x6960.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2026-11-19",
+      "artist": "Koncertcafé Aarhus",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/koncertcafe-aarhus-6",
+      "image": "https://www.datocms-assets.com/98810/1788498084-rama_aarhus_header_sang2-scaled.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-19",
@@ -1520,7 +1511,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/panzerchrist-2027"
+      "url": "https://train.dk/kalender/panzerchrist-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/77f1015009e4a97ecfd962382118d5f2120eb79b-4902x3268.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-02-11",
