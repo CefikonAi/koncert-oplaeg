@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-10-31 10:33",
+  "opdateret": "2026-11-01 11:28",
   "vindue": [
-    "2026-10-31",
-    "2027-02-28"
+    "2026-11-01",
+    "2027-03-01"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,62 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 94,
-      "hentet": "2026-10-31"
+      "count": 93,
+      "hentet": "2026-11-01"
     },
     "v": {
       "ok": true,
-      "count": 34,
-      "hentet": "2026-10-31"
+      "count": 33,
+      "hentet": "2026-11-01"
     },
     "m": {
       "ok": true,
-      "count": 52,
-      "hentet": "2026-10-31"
+      "count": 53,
+      "hentet": "2026-11-01"
     },
     "f": {
       "ok": true,
       "count": 7,
-      "hentet": "2026-10-31"
+      "hentet": "2026-11-01"
     }
   },
   "events": [
-    {
-      "date": "2026-10-31",
-      "artist": "Mina Okabe",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/mina-okabe",
-      "image": "https://www.datocms-assets.com/98810/1781758888-feature_34221.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-31",
-      "artist": "Pligten Kalder",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/pligten-kalder",
-      "image": "https://www.datocms-assets.com/98810/1769677235-feature_31030.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-10-31",
-      "artist": "The Clockworks + Support Danny Blue",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/the-clockworks/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/02/The-Clockworks-2.jpg"
-    },
-    {
-      "date": "2026-10-31",
-      "artist": "Von Quar",
-      "venue": "t",
-      "status": "Udsolgt",
-      "note": "",
-      "url": "https://train.dk/kalender/vonquar-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/1d7504c2d883a948374197aeaac80391984ba1a0-2902x2959.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
     {
       "date": "2026-11-01",
       "artist": "Allan Olsen",
@@ -764,6 +728,15 @@
     },
     {
       "date": "2026-11-19",
+      "artist": "Klaveraften",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/klaveraften-28",
+      "image": "https://www.datocms-assets.com/98810/1761627624-rama_komponistklassen_dsc3173_header-scaled.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-19",
       "artist": "Koncertcafé Aarhus",
       "venue": "m",
       "status": "",
@@ -818,6 +791,15 @@
     },
     {
       "date": "2026-11-21",
+      "artist": "Cafékoncert med elever fra Aarhus Musikskole",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/cafekoncert-med-elever-fra-aarhus-musikskole",
+      "image": "https://www.datocms-assets.com/98810/1789560673-cafekoncert_hjemmeside.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-21",
       "artist": "Carpark North",
       "venue": "t",
       "status": "",
@@ -833,6 +815,15 @@
       "note": "",
       "url": "https://voxhall.dk/koncerter/jacob-bellens-2/",
       "image": "https://voxhall.dk/wp-content/uploads/2026/02/Jacob-Bellens-2-1277x1920.jpg"
+    },
+    {
+      "date": "2026-11-21",
+      "artist": "Little North",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/little-north",
+      "image": "https://www.datocms-assets.com/98810/1770287436-feature_31143.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-21",
@@ -1440,8 +1431,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/hugorm-2027-5",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/13638ccb63f8b8c847f0ae6c3c500babba3bcac1-4189x5584.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/hugorm-2027-5"
     },
     {
       "date": "2027-02-06",
