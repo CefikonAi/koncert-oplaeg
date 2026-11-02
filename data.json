@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-01 11:28",
+  "opdateret": "2026-11-02 12:50",
   "vindue": [
-    "2026-11-01",
-    "2027-03-01"
+    "2026-11-02",
+    "2027-03-02"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,53 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 93,
-      "hentet": "2026-11-01"
+      "count": 95,
+      "hentet": "2026-11-02"
     },
     "v": {
       "ok": true,
-      "count": 33,
-      "hentet": "2026-11-01"
+      "count": 32,
+      "hentet": "2026-11-02"
     },
     "m": {
       "ok": true,
-      "count": 53,
-      "hentet": "2026-11-01"
+      "count": 55,
+      "hentet": "2026-11-02"
     },
     "f": {
       "ok": true,
       "count": 7,
-      "hentet": "2026-11-01"
+      "hentet": "2026-11-02"
     }
   },
   "events": [
-    {
-      "date": "2026-11-01",
-      "artist": "Allan Olsen",
-      "venue": "m",
-      "status": "Få tilbage",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/allan-olsen",
-      "image": "https://www.datocms-assets.com/98810/1764932754-feature_30659.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-01",
-      "artist": "Vampyr",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/vampyren",
-      "image": "https://www.datocms-assets.com/98810/1777882815-feature_33868.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-01",
-      "artist": "Westside Cowboy + Support Wyatt",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/westside-cowboy/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/03/WestsideCowboy-2-2.jpg"
-    },
     {
       "date": "2026-11-02",
       "artist": "Fløjteaften: Fløjte og klaver",
@@ -127,7 +100,7 @@
       "date": "2026-11-05",
       "artist": "Beethoven 9",
       "venue": "m",
-      "status": "Udsolgt",
+      "status": "Få tilbage",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/beethoven-9",
       "image": "https://www.datocms-assets.com/98810/1793010672-feature_32495.jpg?auto=format&fit=max&w=1200"
@@ -262,7 +235,7 @@
       "date": "2026-11-06",
       "artist": "Rikke Thomsen",
       "venue": "m",
-      "status": "",
+      "status": "Få tilbage",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/rikke-thomsen",
       "image": "https://www.datocms-assets.com/98810/1768554032-feature_25902.png?auto=format&fit=max&w=1200"
@@ -809,6 +782,24 @@
     },
     {
       "date": "2026-11-21",
+      "artist": "Hanne Boel",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/hanne-boel",
+      "image": "https://www.datocms-assets.com/98810/1770271231-feature_31008.png?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-21",
+      "artist": "Jacob Aksglæde",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/jacob-aksglaede",
+      "image": "https://www.datocms-assets.com/98810/1764324028-feature_30515.png?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-21",
       "artist": "Jacob Bellens + Support Lykke",
       "venue": "v",
       "status": "",
@@ -833,6 +824,24 @@
       "note": "",
       "url": "https://train.dk/kalender/mathias-ranch-2026",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/f1e00f853c76759285ac22a5d961bfccece5e23f-3500x4027.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2026-11-22",
+      "artist": "Kammermusik-talentcamp 2026",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/kammermusik-talentcamp-2026-afslutningskoncert",
+      "image": "https://www.datocms-assets.com/98810/1793098836-kammermusik_talentcamp_mh.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-22",
+      "artist": "Orkesterfestivalen",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/orkesterfestivalen",
+      "image": "https://www.datocms-assets.com/98810/1768922362-orkesterfestivalen_2026_musikhuset-dk_kun_vaskebjorn_1920x1980.png?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-25",
@@ -948,8 +957,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/guzo-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/fc67055e083bac16946201d1369f82e11eb7e10e-4922x4363.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/guzo-2026"
     },
     {
       "date": "2026-12-04",
@@ -1431,7 +1439,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/hugorm-2027-5"
+      "url": "https://train.dk/kalender/hugorm-2027-5",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/13638ccb63f8b8c847f0ae6c3c500babba3bcac1-4189x5584.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-02-06",
@@ -1457,8 +1466,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/marcus-wav-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/ecdfe708dc41a58e59023688ae8f4bbeca079bec-1840x1232.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/marcus-wav-2026"
     },
     {
       "date": "2027-02-10",
@@ -1673,6 +1681,15 @@
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/e08a715b89583db78a820a0e62fa0405bc6f4f50-2077x2769.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
+      "date": "2027-02-26",
+      "artist": "Viola",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/viola-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/5dbd3ddb04d189d1ad7c0a78b53a00c7729b3fc7-2851x3027.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
       "date": "2027-02-27",
       "artist": "OKAYNICO",
       "venue": "t",
@@ -1698,6 +1715,15 @@
       "note": "",
       "url": "https://train.dk/kalender/toldermania-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/3fb2b2604d347bb186f71301736703de74abf2b3-1600x1994.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-03-02",
+      "artist": "Party Cannon × Internal Bleeding",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/party-cannon-internal-bleeding-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/a60f5316a89fb4a7b59839c8cd0e712837993958-1600x898.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     }
   ]
 }
