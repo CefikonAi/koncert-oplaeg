@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-02 12:50",
+  "opdateret": "2026-11-03 12:14",
   "vindue": [
-    "2026-11-02",
-    "2027-03-02"
+    "2026-11-03",
+    "2027-03-03"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -14,61 +14,25 @@
     "t": {
       "ok": true,
       "count": 95,
-      "hentet": "2026-11-02"
+      "hentet": "2026-11-03"
     },
     "v": {
       "ok": true,
       "count": 32,
-      "hentet": "2026-11-02"
+      "hentet": "2026-11-03"
     },
     "m": {
       "ok": true,
-      "count": 55,
-      "hentet": "2026-11-02"
+      "count": 54,
+      "hentet": "2026-11-03"
     },
     "f": {
       "ok": true,
       "count": 7,
-      "hentet": "2026-11-02"
+      "hentet": "2026-11-03"
     }
   },
   "events": [
-    {
-      "date": "2026-11-02",
-      "artist": "Fløjteaften: Fløjte og klaver",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/floejteaften-floejte-og-klaver",
-      "image": "https://www.datocms-assets.com/98810/1786359660-floejter_kirke2026_mh-3.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-02",
-      "artist": "New Music for Strings: Expanding Tradition",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/new-music-for-strings-expanding-tradition",
-      "image": "https://www.datocms-assets.com/98810/1792674037-expanding-tradition-e2-80-93-til-musikkons-dk.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-02",
-      "artist": "Online informationsmøde",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/online-informationsmoede-klassiske-uddannelser",
-      "image": "https://www.datocms-assets.com/98810/1793077234-2026-rama-aarhus_062_3000px-event.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-02",
-      "artist": "Sondre Lerche",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/sondre-lerche-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/18210533e32d7036308aeb1fc6dd24e481ac0fbd-3521x2355.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
     {
       "date": "2026-11-03",
       "artist": "Sangsoiré",
@@ -100,7 +64,7 @@
       "date": "2026-11-05",
       "artist": "Beethoven 9",
       "venue": "m",
-      "status": "Få tilbage",
+      "status": "Udsolgt",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/beethoven-9",
       "image": "https://www.datocms-assets.com/98810/1793010672-feature_32495.jpg?auto=format&fit=max&w=1200"
@@ -446,6 +410,15 @@
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/guitaraften-2",
       "image": "https://www.datocms-assets.com/98810/1717079749-guitar-klassisk-2.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-12",
+      "artist": "Koncert med Curious Chamber Players",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/koncert-med-curious-chamber-players",
+      "image": "https://www.datocms-assets.com/98810/1793703636-curious_chamber_players_1200x832.png?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-12",
@@ -844,6 +817,15 @@
       "image": "https://www.datocms-assets.com/98810/1768922362-orkesterfestivalen_2026_musikhuset-dk_kun_vaskebjorn_1920x1980.png?auto=format&fit=max&w=1200"
     },
     {
+      "date": "2026-11-23",
+      "artist": "Træblæserkoncert",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/traeblaeserkoncert",
+      "image": "https://www.datocms-assets.com/98810/1786359660-floejter_kirke2026_mh.jpg?auto=format&fit=max&w=1200"
+    },
+    {
       "date": "2026-11-25",
       "artist": "Týr + Support Twilight Force, Dragonland & Vanaheim",
       "venue": "v",
@@ -957,7 +939,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/guzo-2026"
+      "url": "https://train.dk/kalender/guzo-2026",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/fc67055e083bac16946201d1369f82e11eb7e10e-4922x4363.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2026-12-04",
@@ -1278,8 +1261,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/mattias-kolstrup-2027",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/8658083c37623acadd1d9d0500f31ce7d5339a0a-3119x2559.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/mattias-kolstrup-2027"
     },
     {
       "date": "2027-01-22",
@@ -1466,7 +1448,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/marcus-wav-2026"
+      "url": "https://train.dk/kalender/marcus-wav-2026",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/ecdfe708dc41a58e59023688ae8f4bbeca079bec-1840x1232.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-02-10",
@@ -1724,6 +1707,15 @@
       "note": "",
       "url": "https://train.dk/kalender/party-cannon-internal-bleeding-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/a60f5316a89fb4a7b59839c8cd0e712837993958-1600x898.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-03-03",
+      "artist": "Emil de Waal",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/emil-de-waal-2026",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/62cc0738f16eedfd7e72c0ef33693ecbe5e9e81d-7589x6847.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     }
   ]
 }
