@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-04 12:26",
+  "opdateret": "2026-11-05 12:42",
   "vindue": [
-    "2026-11-04",
-    "2027-03-04"
+    "2026-11-05",
+    "2027-03-05"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,44 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 95,
-      "hentet": "2026-11-04"
+      "count": 96,
+      "hentet": "2026-11-05"
     },
     "v": {
       "ok": true,
-      "count": 32,
-      "hentet": "2026-11-04"
+      "count": 33,
+      "hentet": "2026-11-05"
     },
     "m": {
       "ok": true,
       "count": 54,
-      "hentet": "2026-11-04"
+      "hentet": "2026-11-05"
     },
     "f": {
       "ok": true,
       "count": 7,
-      "hentet": "2026-11-04"
+      "hentet": "2026-11-05"
     }
   },
   "events": [
-    {
-      "date": "2026-11-04",
-      "artist": "Basun- og Tubaaften",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/basunaften-2",
-      "image": "https://www.datocms-assets.com/98810/1724828492-190330_rama_dsc4633_header.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-04",
-      "artist": "Koncertcafé Aarhus",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/koncertcafe-aarhus-2",
-      "image": "https://www.datocms-assets.com/98810/1788498083-rama_aarhus_header_trommer3-scaled.jpg?auto=format&fit=max&w=1200"
-    },
     {
       "date": "2026-11-05",
       "artist": "Beethoven 9",
@@ -59,15 +41,6 @@
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/beethoven-9",
       "image": "https://www.datocms-assets.com/98810/1793010672-feature_32495.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-05",
-      "artist": "Demensvenlig koncert",
-      "venue": "m",
-      "status": "Få tilbage",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/demensvenlig-koncert",
-      "image": "https://www.datocms-assets.com/98810/1758724075-feature_23796.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-05",
@@ -190,7 +163,7 @@
       "date": "2026-11-06",
       "artist": "Rikke Thomsen",
       "venue": "m",
-      "status": "Få tilbage",
+      "status": "",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/rikke-thomsen",
       "image": "https://www.datocms-assets.com/98810/1768554032-feature_25902.png?auto=format&fit=max&w=1200"
@@ -455,15 +428,6 @@
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/koncert-med-tidlig-musik",
       "image": "https://www.datocms-assets.com/98810/1788505233-rama_aarhus_header_kammermusik1-scaled-3.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-13",
-      "artist": "Kunstværk",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/kunstvaerk-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/964dcd9acc0bc2916a277adb5594f9f65acd796a-6698x3768.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2026-11-13",
@@ -818,12 +782,39 @@
     },
     {
       "date": "2026-11-24",
+      "artist": "Anders Blichfeldt",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/anders-blichfeldt",
+      "image": "https://www.datocms-assets.com/98810/1765281342-anders-blichfeldt_1920x1980.png?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-24",
       "artist": "Koncertcafé Aarhus",
       "venue": "m",
       "status": "",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/koncertcafe-aarhus-7",
       "image": "https://www.datocms-assets.com/98810/1788498090-rama_aarhus_header_bas-scaled.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-25",
+      "artist": "Koncertcafé Aarhus",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/koncertcafe-aarhus-8",
+      "image": "https://www.datocms-assets.com/98810/1788498083-rama_aarhus_header_trommer3-scaled.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-25",
+      "artist": "Morgensang i Musikhuset",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/morgensang-i-musikhuset",
+      "image": "https://www.datocms-assets.com/98810/1718456220-margrethe-debel-morgensang-1920-x-1980.png?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-25",
@@ -1055,8 +1046,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/allen-anjeh-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/3aedddc4260de83d94499418917b3493982c286b-3199x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/allen-anjeh-2026"
     },
     {
       "date": "2026-12-12",
@@ -1190,7 +1180,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/unmuted-showcase-2027"
+      "url": "https://train.dk/kalender/unmuted-showcase-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/8e42c2a1770dcb103c453c0cf7256df1ab5dee6c-2000x2000.png?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-01-09",
@@ -1360,6 +1351,15 @@
       "note": "",
       "url": "https://voxhall.dk/koncerter/undergang-malformed/",
       "image": "https://voxhall.dk/wp-content/uploads/2026/10/Undergang-2.jpg"
+    },
+    {
+      "date": "2027-02-03",
+      "artist": "Beth Orton",
+      "venue": "v",
+      "status": "",
+      "note": "",
+      "url": "https://voxhall.dk/koncerter/beth-orton/",
+      "image": "https://voxhall.dk/wp-content/uploads/2026/10/BethOrton2-1419x1920.jpg"
     },
     {
       "date": "2027-02-03",
@@ -1716,6 +1716,24 @@
       "note": "",
       "url": "https://train.dk/kalender/emil-de-waal-2026",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/62cc0738f16eedfd7e72c0ef33693ecbe5e9e81d-7589x6847.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-03-05",
+      "artist": "Katinka",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/katinka-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/8cf7230148d94a95d8c5f9eee41c7c5060122af7-2108x2106.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-03-05",
+      "artist": "Loui Henderson",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/loui-henderson-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/8eb8d94e2f3e72866a59cb4488f08d510576e396-3200x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     }
   ]
 }
