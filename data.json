@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-05 12:42",
+  "opdateret": "2026-11-06 12:23",
   "vindue": [
-    "2026-11-05",
-    "2027-03-05"
+    "2026-11-06",
+    "2027-03-06"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,89 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 96,
-      "hentet": "2026-11-05"
+      "count": 95,
+      "hentet": "2026-11-06"
     },
     "v": {
       "ok": true,
       "count": 33,
-      "hentet": "2026-11-05"
+      "hentet": "2026-11-06"
     },
     "m": {
       "ok": true,
-      "count": 54,
-      "hentet": "2026-11-05"
+      "count": 49,
+      "hentet": "2026-11-06"
     },
     "f": {
       "ok": true,
       "count": 7,
-      "hentet": "2026-11-05"
+      "hentet": "2026-11-06"
     }
   },
   "events": [
-    {
-      "date": "2026-11-05",
-      "artist": "Beethoven 9",
-      "venue": "m",
-      "status": "Udsolgt",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/beethoven-9",
-      "image": "https://www.datocms-assets.com/98810/1793010672-feature_32495.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-05",
-      "artist": "Guldimund",
-      "venue": "m",
-      "status": "Få tilbage",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/guldimund",
-      "image": "https://www.datocms-assets.com/98810/1759910424-feature_30004.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-05",
-      "artist": "Koncertcafé Aarhus",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/koncertcafe-aarhus-3",
-      "image": "https://www.datocms-assets.com/98810/1788498083-rama_aarhus_header_bas_guitar-scaled.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-05",
-      "artist": "Lis Wessberg feat. Veronika Rud",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/lis-wessberg-feat-veronika-rud",
-      "image": "https://www.datocms-assets.com/98810/1772698833-feature_32763.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-05",
-      "artist": "Mikael Simpson",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/mikael-simpson-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/b06ad278cb895eff402d46b77b62987086c245f1-2235x2496.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-05",
-      "artist": "Rexen",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/rexen-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/470e9c595420003b12dce30e91c8252c29117bfe-2737x2993.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-05",
-      "artist": "Rikke Thomsen",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/rikke-thomsen",
-      "image": "https://www.datocms-assets.com/98810/1768554032-feature_25902.png?auto=format&fit=max&w=1200"
-    },
     {
       "date": "2026-11-06",
       "artist": "Afterlive: Søren Manscher",
@@ -163,7 +100,7 @@
       "date": "2026-11-06",
       "artist": "Rikke Thomsen",
       "venue": "m",
-      "status": "",
+      "status": "Få tilbage",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/rikke-thomsen",
       "image": "https://www.datocms-assets.com/98810/1768554032-feature_25902.png?auto=format&fit=max&w=1200"
@@ -310,7 +247,7 @@
       "status": "",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/slagtoejsaften-5",
-      "image": "https://www.datocms-assets.com/98810/1791284441-slagtoej_2026_2_mh.jpg?auto=format&fit=max&w=1200"
+      "image": "https://www.datocms-assets.com/98810/1793883638-slagtoejs_2026_mh.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-11",
@@ -350,7 +287,7 @@
     },
     {
       "date": "2026-11-11",
-      "artist": "Yndling",
+      "artist": "Yndling + Support muuk",
       "venue": "v",
       "status": "",
       "note": "",
@@ -415,7 +352,7 @@
       "date": "2026-11-13",
       "artist": "Folkeklubben & Danmarks Underholdningsorkester",
       "venue": "m",
-      "status": "Venteliste",
+      "status": "Få tilbage",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/folkeklubben-danmarks-underholdningsorkester",
       "image": "https://www.datocms-assets.com/98810/1764752463-feature_30447.png?auto=format&fit=max&w=1200"
@@ -1046,7 +983,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/allen-anjeh-2026"
+      "url": "https://train.dk/kalender/allen-anjeh-2026",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/3aedddc4260de83d94499418917b3493982c286b-3199x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2026-12-12",
@@ -1734,6 +1672,15 @@
       "note": "",
       "url": "https://train.dk/kalender/loui-henderson-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/8eb8d94e2f3e72866a59cb4488f08d510576e396-3200x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-03-06",
+      "artist": "Guttural Disgorge",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/guttural-disgorge-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/136349b3ebb16833e7b8abb54cabc7334c2cda22-3842x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     }
   ]
 }
