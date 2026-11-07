@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-06 12:23",
+  "opdateret": "2026-11-07 11:17",
   "vindue": [
-    "2026-11-06",
-    "2027-03-06"
+    "2026-11-07",
+    "2027-03-07"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,125 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 95,
-      "hentet": "2026-11-06"
+      "count": 91,
+      "hentet": "2026-11-07"
     },
     "v": {
       "ok": true,
-      "count": 33,
-      "hentet": "2026-11-06"
+      "count": 32,
+      "hentet": "2026-11-07"
     },
     "m": {
       "ok": true,
-      "count": 49,
-      "hentet": "2026-11-06"
+      "count": 46,
+      "hentet": "2026-11-07"
     },
     "f": {
       "ok": true,
-      "count": 7,
-      "hentet": "2026-11-06"
+      "count": 8,
+      "hentet": "2026-11-07"
     }
   },
   "events": [
-    {
-      "date": "2026-11-06",
-      "artist": "Afterlive: Søren Manscher",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/afterlive-soren-manscher",
-      "image": "https://www.datocms-assets.com/98810/1779797461-soren-manscher.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-06",
-      "artist": "Beethoven 9",
-      "venue": "m",
-      "status": "Udsolgt",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/beethoven-9",
-      "image": "https://www.datocms-assets.com/98810/1793010672-feature_32495.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-06",
-      "artist": "Celloaften",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/celloaften-10",
-      "image": "https://www.datocms-assets.com/98810/1782471652-header_4138-scaled.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-06",
-      "artist": "Fräulein",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/fraulein",
-      "image": "https://www.datocms-assets.com/98810/1765292426-feature_30712.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-06",
-      "artist": "Guldimund",
-      "venue": "m",
-      "status": "Få tilbage",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/guldimund",
-      "image": "https://www.datocms-assets.com/98810/1759910424-feature_30004.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-06",
-      "artist": "Jill Andrews",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/jill-andrews-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/1545249332f33ae900c0827315bdf9f0a39ea916-1600x1600.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-06",
-      "artist": "Karoline Mousing",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/karoline-mousing-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/956c36f9faf28bcf1d975e031b1cec90325dbc97-2000x2556.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-06",
-      "artist": "Rikke Thomsen",
-      "venue": "m",
-      "status": "Få tilbage",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/rikke-thomsen",
-      "image": "https://www.datocms-assets.com/98810/1768554032-feature_25902.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-06",
-      "artist": "Salver",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/salver-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/4f6d48b3a1f1402a6e2e49ecf3c1eae6b41037eb-2000x1875.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-06",
-      "artist": "Søren Huss",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/soeren-huss-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/ef17d8c2411442c68d7e122d9c57f34130690d81-8034x5358.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-06",
-      "artist": "TootArd + Support QT Carter",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/tootard/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/09/TootArd-2.jpg"
-    },
     {
       "date": "2026-11-07",
       "artist": "Graveyard + Support Skraeckoedlan",
@@ -799,6 +700,24 @@
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/6850c9d33cbf09b0701865256a2b629e6ef655f2-4000x2922.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
+      "date": "2026-11-26",
+      "artist": "Northern Assembly",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/northern-assembly",
+      "image": "https://www.datocms-assets.com/98810/1780997428-feature_34232.png?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-26",
+      "artist": "RAMA Classics: Orchestra in Parts",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/rama-classics-orchestra-in-parts-faelleskoncert",
+      "image": "https://www.datocms-assets.com/98810/1727348436-dsc_1234.jpg?auto=format&fit=max&w=1200"
+    },
+    {
       "date": "2026-11-27",
       "artist": "Downtown July",
       "venue": "t",
@@ -815,6 +734,15 @@
       "note": "",
       "url": "https://voxhall.dk/koncerter/michael-williams/",
       "image": "https://voxhall.dk/wp-content/uploads/2026/04/Michael-Williams-2-1440x1920.jpg"
+    },
+    {
+      "date": "2026-11-27",
+      "artist": "RAMA Classics: Orchestra in Parts",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/rama-classics-orchestra-in-parts-traeblaeserkoncert",
+      "image": "https://www.datocms-assets.com/98810/1786359660-floejter_kirke2026_mh.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-27",
@@ -1269,8 +1197,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/patrick-walshe-2027",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/59c477427e7deeae32d1c27123db6dcb8bb1fda2-3000x3621.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/patrick-walshe-2027"
     },
     {
       "date": "2027-01-30",
@@ -1681,6 +1608,14 @@
       "note": "",
       "url": "https://train.dk/kalender/guttural-disgorge-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/136349b3ebb16833e7b8abb54cabc7334c2cda22-3842x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-03-07",
+      "artist": "Copenhagen Drummers",
+      "venue": "f",
+      "status": "",
+      "note": "",
+      "url": "https://friheden.dk/arrangementer/hermans/copenhagen-drummers"
     }
   ]
 }
