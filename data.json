@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-07 11:17",
+  "opdateret": "2026-11-08 11:30",
   "vindue": [
-    "2026-11-07",
-    "2027-03-07"
+    "2026-11-08",
+    "2027-03-08"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,71 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 91,
-      "hentet": "2026-11-07"
+      "count": 89,
+      "hentet": "2026-11-08"
     },
     "v": {
       "ok": true,
-      "count": 32,
-      "hentet": "2026-11-07"
+      "count": 31,
+      "hentet": "2026-11-08"
     },
     "m": {
       "ok": true,
-      "count": 46,
-      "hentet": "2026-11-07"
+      "count": 47,
+      "hentet": "2026-11-08"
     },
     "f": {
       "ok": true,
       "count": 8,
-      "hentet": "2026-11-07"
+      "hentet": "2026-11-08"
     }
   },
   "events": [
-    {
-      "date": "2026-11-07",
-      "artist": "Graveyard + Support Skraeckoedlan",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/graveyard-2/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/05/Graveyard-2-1477x1920.jpg"
-    },
-    {
-      "date": "2026-11-07",
-      "artist": "Guldimund",
-      "venue": "m",
-      "status": "Få tilbage",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/guldimund",
-      "image": "https://www.datocms-assets.com/98810/1759910424-feature_30004.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-07",
-      "artist": "Naja Rosa",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/naja-rosa",
-      "image": "https://www.datocms-assets.com/98810/1768467929-feature_30637.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-07",
-      "artist": "Rita Payés & Lucia Fumero",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/ritapayes-luciafumero-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/b1c0fae1a007d3593219dd0e114b99b74e0f7d00-3465x3084.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-07",
-      "artist": "Vepsestikk",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/vepsestikk-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/2b24667a2a324a0a050eb2c7ac2507089a42bcd8-2048x1484.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
     {
       "date": "2026-11-08",
       "artist": "Operakoncert",
@@ -728,6 +683,15 @@
     },
     {
       "date": "2026-11-27",
+      "artist": "Freja Kirk",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/freja-kirk",
+      "image": "https://www.datocms-assets.com/98810/1763550325-feature_30504.png?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-27",
       "artist": "Michael Williams",
       "venue": "v",
       "status": "",
@@ -746,6 +710,15 @@
     },
     {
       "date": "2026-11-27",
+      "artist": "Sangsoiré",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/sangsoire-3",
+      "image": "https://www.datocms-assets.com/98810/1790845235-sangfryd_2026_1_mh.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-27",
       "artist": "URO",
       "venue": "t",
       "status": "",
@@ -761,6 +734,15 @@
       "note": "",
       "url": "https://train.dk/kalender/bifald-2026",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/fc524a2b62ce066e7ef1c49a452d7fab9ee23067-2075x2149.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2026-11-28",
+      "artist": "Klavermatiné",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/klavermatine-10",
+      "image": "https://www.datocms-assets.com/98810/1723559543-rama_festkoncert_3725_vav.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-28",
@@ -858,8 +840,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/q-marsden-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/7eb56c4383df68e4835ab106f642e2f30b1435a1-3859x4377.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/q-marsden-2026"
     },
     {
       "date": "2026-12-08",
@@ -911,8 +892,7 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/allen-anjeh-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/3aedddc4260de83d94499418917b3493982c286b-3199x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/allen-anjeh-2026"
     },
     {
       "date": "2026-12-12",
@@ -1197,7 +1177,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/patrick-walshe-2027"
+      "url": "https://train.dk/kalender/patrick-walshe-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/59c477427e7deeae32d1c27123db6dcb8bb1fda2-3000x3621.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-01-30",
