@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-09 13:16",
+  "opdateret": "2026-11-10 12:54",
   "vindue": [
-    "2026-11-09",
-    "2027-03-09"
+    "2026-11-10",
+    "2027-03-10"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,44 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 89,
-      "hentet": "2026-11-09"
+      "count": 90,
+      "hentet": "2026-11-10"
     },
     "v": {
       "ok": true,
-      "count": 32,
-      "hentet": "2026-11-09"
+      "count": 31,
+      "hentet": "2026-11-10"
     },
     "m": {
       "ok": true,
       "count": 48,
-      "hentet": "2026-11-09"
+      "hentet": "2026-11-10"
     },
     "f": {
       "ok": true,
       "count": 8,
-      "hentet": "2026-11-09"
+      "hentet": "2026-11-10"
     }
   },
   "events": [
-    {
-      "date": "2026-11-09",
-      "artist": "Eleine + Support Rexoria & Serapis Project",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/eleine/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/03/ELEINE-2-1.jpg"
-    },
-    {
-      "date": "2026-11-09",
-      "artist": "Syng! Syng! Syng!",
-      "venue": "m",
-      "status": "Venteliste",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/syng-syng-syng",
-      "image": "https://www.datocms-assets.com/98810/1751895628-feature_15832.jpg?auto=format&fit=max&w=1200"
-    },
     {
       "date": "2026-11-10",
       "artist": "Aegteskab",
@@ -770,6 +752,15 @@
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/classical-mornings",
       "image": "https://www.datocms-assets.com/98810/1741622499-feature_26119.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-29",
+      "artist": "Unge spiller klassisk",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/unge-spiller-klassisk",
+      "image": "https://www.datocms-assets.com/98810/1781010041-unge_spiller_klassisk_2021.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-12-03",
@@ -1519,6 +1510,15 @@
       "note": "",
       "url": "https://train.dk/kalender/eivoer-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/e08a715b89583db78a820a0e62fa0405bc6f4f50-2077x2769.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-02-26",
+      "artist": "Slush Eyes",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/slush-eyes-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/221b4f9fc3a184fa165c9dd47606f9f39764327f-2763x2763.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-02-26",
