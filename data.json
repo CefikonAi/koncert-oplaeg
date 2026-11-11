@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-10 12:54",
+  "opdateret": "2026-11-11 12:03",
   "vindue": [
-    "2026-11-10",
-    "2027-03-10"
+    "2026-11-11",
+    "2027-03-11"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -14,61 +14,25 @@
     "t": {
       "ok": true,
       "count": 90,
-      "hentet": "2026-11-10"
+      "hentet": "2026-11-11"
     },
     "v": {
       "ok": true,
       "count": 31,
-      "hentet": "2026-11-10"
+      "hentet": "2026-11-11"
     },
     "m": {
       "ok": true,
-      "count": 48,
-      "hentet": "2026-11-10"
+      "count": 47,
+      "hentet": "2026-11-11"
     },
     "f": {
       "ok": true,
       "count": 8,
-      "hentet": "2026-11-10"
+      "hentet": "2026-11-11"
     }
   },
   "events": [
-    {
-      "date": "2026-11-10",
-      "artist": "Aegteskab",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/aegteskab-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/0daad956a9c5a540fd5136a816ea1b844810427c-1600x897.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-10",
-      "artist": "Bigbandkoncert",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/bigbandkoncert-5",
-      "image": "https://www.datocms-assets.com/98810/1759150857-zuheb-ahmed-khan-tabla.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-10",
-      "artist": "Boris + Support Planning For Burial",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/boris-support-planning-for-burial/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/05/Boris-2-1283x1920.jpg"
-    },
-    {
-      "date": "2026-11-10",
-      "artist": "Slagtøjsaften",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/slagtoejsaften-5",
-      "image": "https://www.datocms-assets.com/98810/1793883638-slagtoejs_2026_mh.jpg?auto=format&fit=max&w=1200"
-    },
     {
       "date": "2026-11-11",
       "artist": "Isam B",
@@ -418,7 +382,7 @@
       "status": "",
       "note": "",
       "url": "https://train.dk/kalender/vilma-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/c7719f22f839a95042cc8b4250598bc81309b08e-8736x7626.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/ee0e51569655b346f6d7e4482327a54e782ce353-4000x3492.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2026-11-20",
@@ -752,6 +716,15 @@
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/classical-mornings",
       "image": "https://www.datocms-assets.com/98810/1741622499-feature_26119.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-29",
+      "artist": "RAMA Classics: Orchestra in Parts",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/rama-classics-orchestra-in-parts-strygerkoncert",
+      "image": "https://www.datocms-assets.com/98810/1756976443-160402_rama_aarhus_dsc8967.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-29",
@@ -1558,6 +1531,15 @@
     },
     {
       "date": "2027-03-02",
+      "artist": "Baphy",
+      "venue": "v",
+      "status": "",
+      "note": "",
+      "url": "https://voxhall.dk/koncerter/baphy/",
+      "image": "https://voxhall.dk/wp-content/uploads/2026/10/BAPHY-2-1440x1920.jpg"
+    },
+    {
+      "date": "2027-03-02",
       "artist": "Party Cannon × Internal Bleeding",
       "venue": "t",
       "status": "",
@@ -1617,6 +1599,15 @@
       "note": "",
       "url": "https://voxhall.dk/koncerter/kamelot/",
       "image": "https://voxhall.dk/wp-content/uploads/2026/08/Kamelot-2-1536x1920.jpg"
+    },
+    {
+      "date": "2027-03-11",
+      "artist": "Knægt",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/knaegt-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/bc109fe89960d485f7d5d10b3ebaebe3e9c4d3db-3158x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     }
   ]
 }
