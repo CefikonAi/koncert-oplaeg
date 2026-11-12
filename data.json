@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-11 12:03",
+  "opdateret": "2026-11-12 13:08",
   "vindue": [
-    "2026-11-11",
-    "2027-03-11"
+    "2026-11-12",
+    "2027-03-12"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,71 +13,26 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 90,
-      "hentet": "2026-11-11"
+      "count": 92,
+      "hentet": "2026-11-12"
     },
     "v": {
       "ok": true,
-      "count": 31,
-      "hentet": "2026-11-11"
+      "count": 30,
+      "hentet": "2026-11-12"
     },
     "m": {
       "ok": true,
-      "count": 47,
-      "hentet": "2026-11-11"
+      "count": 46,
+      "hentet": "2026-11-12"
     },
     "f": {
       "ok": true,
       "count": 8,
-      "hentet": "2026-11-11"
+      "hentet": "2026-11-12"
     }
   },
   "events": [
-    {
-      "date": "2026-11-11",
-      "artist": "Isam B",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/isam-b-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/91aa2c73f5acd172df0fdf5b2e97ea80eac33806-2160x1901.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
-    {
-      "date": "2026-11-11",
-      "artist": "Kammerkoncert",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/kammerkoncert-5",
-      "image": "https://www.datocms-assets.com/98810/1788505233-rama_aarhus_header_kammermusik1-scaled-2.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-11",
-      "artist": "Per Chr. Frost Prisen",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/per-chr-frost-prisen",
-      "image": "https://www.datocms-assets.com/98810/1782914449-feature_34866.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-11",
-      "artist": "When Saints go Machine",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/when-saints-go-machine",
-      "image": "https://www.datocms-assets.com/98810/1769504437-feature_31048.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-11",
-      "artist": "Yndling + Support muuk",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/yndling/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/08/Yndling-2-1440x1920.jpg"
-    },
     {
       "date": "2026-11-12",
       "artist": "Folkeklubben & Danmarks Underholdningsorkester",
@@ -736,6 +691,24 @@
       "image": "https://www.datocms-assets.com/98810/1781010041-unge_spiller_klassisk_2021.jpg?auto=format&fit=max&w=1200"
     },
     {
+      "date": "2026-11-30",
+      "artist": "Nordiske naboer",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/nordisk-sangaften",
+      "image": "https://www.datocms-assets.com/98810/1789794036-oddny_thorarinsdottir_mh.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-30",
+      "artist": "Røde Kors Aarhus fejrer 150 år",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/rode-kors-aarhus-fejrer-150-ar",
+      "image": "https://www.datocms-assets.com/98810/1782363681-feature_34843.jpg?auto=format&fit=max&w=1200"
+    },
+    {
       "date": "2026-12-03",
       "artist": "Chris Burton",
       "venue": "t",
@@ -1161,12 +1134,11 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/thor-farlov-2027",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/bc9cbf442790ea4d08686c180b2540f852be25a8-2667x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+      "url": "https://train.dk/kalender/thor-farlov-2027"
     },
     {
       "date": "2027-01-30",
-      "artist": "Undergang & Malformed",
+      "artist": "Undergang & Malformed + Support Foetorem",
       "venue": "v",
       "status": "",
       "note": "",
@@ -1328,7 +1300,7 @@
       "date": "2027-02-12",
       "artist": "Eee Gee",
       "venue": "t",
-      "status": "",
+      "status": "Udsolgt",
       "note": "",
       "url": "https://train.dk/kalender/eee-gee-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/fcf294818ad15c9f12c4a83c8bc7d5ef0db42df6-4480x5678.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
@@ -1608,6 +1580,33 @@
       "note": "",
       "url": "https://train.dk/kalender/knaegt-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/bc109fe89960d485f7d5d10b3ebaebe3e9c4d3db-3158x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-03-12",
+      "artist": "Andreas Odbjerg",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/andreas-odbjerg-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/abd02190b32316cafd80d5155ef29694ee76f682-1600x2000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-03-12",
+      "artist": "FØNS",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/foens-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/595b95d3d573007aecab930ec974eeddea8d1e99-1666x2500.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-03-12",
+      "artist": "Mark Eitzel",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/mark-eitzel-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/d51f04f884eb894cc38f64957feb3f3685f34a36-4000x2667.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     }
   ]
 }
