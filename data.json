@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-12 13:08",
+  "opdateret": "2026-11-13 12:31",
   "vindue": [
-    "2026-11-12",
-    "2027-03-12"
+    "2026-11-13",
+    "2027-03-13"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -13,70 +13,34 @@
   "status": {
     "t": {
       "ok": true,
-      "count": 92,
-      "hentet": "2026-11-12"
+      "count": 94,
+      "hentet": "2026-11-13"
     },
     "v": {
       "ok": true,
-      "count": 30,
-      "hentet": "2026-11-12"
+      "count": 29,
+      "hentet": "2026-11-13"
     },
     "m": {
       "ok": true,
-      "count": 46,
-      "hentet": "2026-11-12"
+      "count": 45,
+      "hentet": "2026-11-13"
     },
     "f": {
       "ok": true,
       "count": 8,
-      "hentet": "2026-11-12"
+      "hentet": "2026-11-13"
     }
   },
   "events": [
     {
-      "date": "2026-11-12",
-      "artist": "Folkeklubben & Danmarks Underholdningsorkester",
-      "venue": "m",
-      "status": "Få tilbage",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/folkeklubben-danmarks-underholdningsorkester",
-      "image": "https://www.datocms-assets.com/98810/1764752463-feature_30447.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-12",
-      "artist": "Guitaraften",
+      "date": "2026-11-13",
+      "artist": "AFLYST: Koncert med tidlig musik",
       "venue": "m",
       "status": "",
       "note": "",
-      "url": "https://www.musikhuset.dk/kalender/guitaraften-2",
-      "image": "https://www.datocms-assets.com/98810/1717079749-guitar-klassisk-2.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-12",
-      "artist": "Koncert med Curious Chamber Players",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/koncert-med-curious-chamber-players",
-      "image": "https://www.datocms-assets.com/98810/1793703636-curious_chamber_players_1200x832.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-12",
-      "artist": "Mendelssohn 3",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/mendelssohn-3",
-      "image": "https://www.datocms-assets.com/98810/1774306925-feature_32497.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-12",
-      "artist": "Tortoise",
-      "venue": "v",
-      "status": "",
-      "note": "",
-      "url": "https://voxhall.dk/koncerter/tortoise/",
-      "image": "https://voxhall.dk/wp-content/uploads/2026/03/Tortoise-2.jpg"
+      "url": "https://www.musikhuset.dk/kalender/koncert-med-tidlig-musik",
+      "image": "https://www.datocms-assets.com/98810/1788505233-rama_aarhus_header_kammermusik1-scaled-3.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-13",
@@ -95,15 +59,6 @@
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/folkeklubben-danmarks-underholdningsorkester",
       "image": "https://www.datocms-assets.com/98810/1764752463-feature_30447.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-13",
-      "artist": "Koncert med tidlig musik",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/koncert-med-tidlig-musik",
-      "image": "https://www.datocms-assets.com/98810/1788505233-rama_aarhus_header_kammermusik1-scaled-3.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-13",
@@ -197,21 +152,21 @@
     },
     {
       "date": "2026-11-16",
+      "artist": "AFLYST: Koncert med tidlig musik",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/koncert-med-tidlig-musik-2",
+      "image": "https://www.datocms-assets.com/98810/1788505233-rama_aarhus_header_kammermusik1-scaled-3.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-11-16",
       "artist": "Debutkoncert",
       "venue": "m",
       "status": "",
       "note": "",
       "url": "https://www.musikhuset.dk/kalender/debutkoncert-rasmus-dahl-klaver",
       "image": "https://www.datocms-assets.com/98810/1728644451-rasmusdahl_solist-scaled.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-16",
-      "artist": "Koncert med tidlig musik",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/koncert-med-tidlig-musik-2",
-      "image": "https://www.datocms-assets.com/98810/1788505233-rama_aarhus_header_kammermusik1-scaled-3.jpg?auto=format&fit=max&w=1200"
     },
     {
       "date": "2026-11-17",
@@ -709,6 +664,33 @@
       "image": "https://www.datocms-assets.com/98810/1782363681-feature_34843.jpg?auto=format&fit=max&w=1200"
     },
     {
+      "date": "2026-12-01",
+      "artist": "Basunaften",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/basunaften-3",
+      "image": "https://www.datocms-assets.com/98810/1724828492-190330_rama_dsc4633_header.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-12-01",
+      "artist": "Julekoncert med Aarhus Jazz Orchestra",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/julekoncert-med-aarhus-jazz-orchestra",
+      "image": "https://www.datocms-assets.com/98810/1781249445-feature_34163.jpg?auto=format&fit=max&w=1200"
+    },
+    {
+      "date": "2026-12-01",
+      "artist": "Rytmiske Semesterkoncerter Aarhus",
+      "venue": "m",
+      "status": "",
+      "note": "",
+      "url": "https://www.musikhuset.dk/kalender/rytmiske-semesterkoncerter-aarhus",
+      "image": "https://www.datocms-assets.com/98810/1788505233-rama_aarhus_header_band-scaled.jpg?auto=format&fit=max&w=1200"
+    },
+    {
       "date": "2026-12-03",
       "artist": "Chris Burton",
       "venue": "t",
@@ -1134,7 +1116,8 @@
       "venue": "t",
       "status": "",
       "note": "",
-      "url": "https://train.dk/kalender/thor-farlov-2027"
+      "url": "https://train.dk/kalender/thor-farlov-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/bc9cbf442790ea4d08686c180b2540f852be25a8-2667x4000.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-01-30",
@@ -1313,6 +1296,15 @@
       "note": "",
       "url": "https://voxhall.dk/koncerter/slomosa/",
       "image": "https://voxhall.dk/wp-content/uploads/2026/09/Slomosa-2.jpg"
+    },
+    {
+      "date": "2027-02-13",
+      "artist": "Eee Gee",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/eee-gee-2027-2",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/fcf294818ad15c9f12c4a83c8bc7d5ef0db42df6-4480x5678.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     },
     {
       "date": "2027-02-13",
@@ -1607,6 +1599,15 @@
       "note": "",
       "url": "https://train.dk/kalender/mark-eitzel-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/d51f04f884eb894cc38f64957feb3f3685f34a36-4000x2667.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-03-13",
+      "artist": "Bye Bye Brenda",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/bye-bye-brenda-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/b60bb312cd880ffac2889d28f36d4481e153962e-1974x2467.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     }
   ]
 }
