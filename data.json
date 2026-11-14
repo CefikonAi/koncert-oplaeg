@@ -1,8 +1,8 @@
 {
-  "opdateret": "2026-11-13 12:31",
+  "opdateret": "2026-11-14 11:42",
   "vindue": [
-    "2026-11-13",
-    "2027-03-13"
+    "2026-11-14",
+    "2027-03-14"
   ],
   "kilder": {
     "t": "https://train.dk/kalender",
@@ -14,61 +14,25 @@
     "t": {
       "ok": true,
       "count": 94,
-      "hentet": "2026-11-13"
+      "hentet": "2026-11-14"
     },
     "v": {
       "ok": true,
       "count": 29,
-      "hentet": "2026-11-13"
+      "hentet": "2026-11-14"
     },
     "m": {
-      "ok": true,
-      "count": 45,
-      "hentet": "2026-11-13"
+      "ok": false,
+      "fejl": "0 koncerter fundet efter flere forsøg — siden kan have ændret sig",
+      "beholdt": 42
     },
     "f": {
       "ok": true,
       "count": 8,
-      "hentet": "2026-11-13"
+      "hentet": "2026-11-14"
     }
   },
   "events": [
-    {
-      "date": "2026-11-13",
-      "artist": "AFLYST: Koncert med tidlig musik",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/koncert-med-tidlig-musik",
-      "image": "https://www.datocms-assets.com/98810/1788505233-rama_aarhus_header_kammermusik1-scaled-3.jpg?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-13",
-      "artist": "DM Brass 2026",
-      "venue": "m",
-      "status": "",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/dm-brass-2026",
-      "image": "https://www.datocms-assets.com/98810/1757668841-feature_29839.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-13",
-      "artist": "Folkeklubben & Danmarks Underholdningsorkester",
-      "venue": "m",
-      "status": "Få tilbage",
-      "note": "",
-      "url": "https://www.musikhuset.dk/kalender/folkeklubben-danmarks-underholdningsorkester",
-      "image": "https://www.datocms-assets.com/98810/1764752463-feature_30447.png?auto=format&fit=max&w=1200"
-    },
-    {
-      "date": "2026-11-13",
-      "artist": "milo",
-      "venue": "t",
-      "status": "",
-      "note": "",
-      "url": "https://train.dk/kalender/milo-2026",
-      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/ac54dcf72ca9a6068dcfc34ac173204c78636bf1-2000x2364.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
-    },
     {
       "date": "2026-11-14",
       "artist": "Baest + Support Deadnate",
@@ -1608,6 +1572,15 @@
       "note": "",
       "url": "https://train.dk/kalender/bye-bye-brenda-2027",
       "image": "https://cdn.sanity.io/images/zr3nrpl4/production/b60bb312cd880ffac2889d28f36d4481e153962e-1974x2467.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
+    },
+    {
+      "date": "2027-03-14",
+      "artist": "Gårdsangerne fra Thy",
+      "venue": "t",
+      "status": "",
+      "note": "",
+      "url": "https://train.dk/kalender/gaardsangerne-fra-thy-2027",
+      "image": "https://cdn.sanity.io/images/zr3nrpl4/production/f73c554175898254e85597ebc7e1d3978eaf5361-3543x2657.jpg?w=1200&h=630&fm=jpg&q=80&fit=crop&crop=focalpoint"
     }
   ]
 }
